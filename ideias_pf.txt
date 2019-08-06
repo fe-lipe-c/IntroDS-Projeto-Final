@@ -1,9 +1,0 @@
-- O que os deputados mais falam ao longo do mandato;
-- Viés ideológico
-
-Perguntas para responder:
-
-- Tem mudança de pauta antes e depois das eleições
-- O que o cara fala com a quantidade de votos (existem influenciadores dentro de 
-cada partido): tramitação das propostas
-- Pauta mais abordada por cada partido.
