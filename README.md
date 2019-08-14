@@ -2,7 +2,6 @@
 Projeto final para a disciplina de Fundamentos de Data Science, da Escola de Matemática Aplicada - EMAP/FGV
 
 ## Lista de Pastas e Arquivos
-
 ### Pastas
 
 * **Papers**: alguns artigos que foram ou não utilizados como referência para realizar o projeto.
@@ -20,6 +19,11 @@ Projeto final para a disciplina de Fundamentos de Data Science, da Escola de Mat
   - **getpdf.ipynb**: código-teste verificar como extrair os discursos do pdf e uma tentativa frustrada de visualizar a quantidade de 
     palavras por discurso, na ordem cronológica.
   
+* **Dados**: dados que serão utilizados no trabalho.
+
+  - **5X-LEG-**: arquivos que contém os resultados das votações realizadas em plenário.
+  - **Layout.pdf**: esquema dos arquivos 5X-LEG-.
+
 ### Arquivos
 
 * **Dias_com_sessao.txt**: lista dos dias em que houve pelo menos uma sessão no plenário. O código em _dias_sessao.ipynb_ gera esse arquivo,
