@@ -1,0 +1,29 @@
+Para fazer a análise do padrão de votação na Câmara dos Deputados foram utilizadas duas abordagens. A primeira foi a utilização da técnica de visualização t-Distributed Stochastic Neighbor Embedding (t-SNE) para identificar as diferenças nas votações mês à mês entre os grupos políticos. A segunda abordagem verificou a afinidade do voto de cada parlamentar com o voto dos parlamentares tanto do partido ao qual é afiliado quanto ao estado no qual foi eleito.
+
+t-SNE
+
+Introduzida em 2008 por Laurens van der Maaten, esta tecnica traz pontos em espaços de alta dimensão para espaços de 2 ou 3 dimensões com resultados satisfatorios. Por exemplo, utilizando o clássico conjunto de dados dos dos dígitos escritos à mão (MINST), a representação através do t-SNE consensegue 'diferenciar' os dígitos por tipo, conforme figura a baixo: (inserir figura do paper https://lvdmaaten.github.io/publications/papers/JMLR_2008.pdf)
+
+Como uma primeira abordagem para entender os padrões de votação na Câmara dos deputados, utilizamos o t-SNE para visuzalizar a matriz de votações. Essa matriz tem a seguinte estrutura: cada linha corresponde a um parlamentar (513 no total), e cada entrada da linha corresponde á uma sessão de votação, ou seja, as colunas da matriz são todas as sessões ocorridas entre fevereiro e agosto (último período de coleta dos dados). Cada entrada na matriz corresponde à ação escolhida pelo parlamentar: 'Sim'==1, 'Não'=='Obstrução'==-1, 'Abstenção'=='Não Votou'==0. Dessa forma, quanto mais sessões dois deputados tiverem votado da mesma forma, mais próxima será a sua representação no espaço criado pelo t-SNE.
+
+Para cada mês, e para o período como um todo, contruimos a matriz de votos e aplicamos o t-SNE. Além da visualização que agrega todos os partidos, diferenciando-os conforme a sua afinidade ao governo federal, produzimos também um para cada partido.
+
+O primeiro mês de votações da nova legislatura mostra uma polarização clara, consistente com o clima do final das eleições de 2018. Na ala da oposição e da minoria, três partidos se destacam na parte inferior-esquerda do gráfico: PT, PSB e PDT. Não há surpresa nisso, pois são partidos identificados com a esquerda que mantém alguma indenpendencia entre si. Já no grupo ligado ao governo, há dois destaques. O primeiro é o partido do presidente, o PSL, que votou de forma unida (e oposta ao PT). O mesmo não ocorreu com os outros partidos da base governista, que votaram de forma mais 'independente' (isso não ocorreu com o NOVO, que, com uma excessão, votou da mesma forma. Isso explica um grupo de pontos no gráfico em volta de um círculo: isso ocorre pois o t-SNE não sobrepõe pontos com valores idênticos, agrupando estes em forma circular).
+
+Diferente de fevereiro, mês em que o novo governo debutou na articulação com o congresso, apresentando uma lista de Medidas Provisórias com impacto imediato no funcionamento da burocracia federal, o mês de março teve uma menor polarização entre os partidos, apesar de ainda se possível identificar grupos de oposição e de situação.
+
+Em abril houve apenas duas votações, com poucos parlamentares participando, portanto não há gráfico.
+
+Maio e Junho a diferença entre governo e oposição volta a ficar evidente. Nesses meses a discussão em torno da reforma da previdência começa a tomar corpo, com o PL sendo apresentado em (.....) Em maio ocorre um efeito curioso, em que além da divisão habitual, é possível perceber uma divisão na divisão.
+
+(Verificar quando o PL da previdência começou a tramitar na casa)
+
+A partir de julho uma parte dos parlamentares do governo adotam um padrão de votação similar ao da oposição. Nesse período, alguns pontos controversos da reforma da previdência unem parlamentares de lados contrários do espectro político.
+
+Estado ou o Partido?
+
+Tomando um ponto de vista simplificado, mas aderente com a realidade, depois de eleito, um congressista tem que prestar contas tanto ao Estado que o consagrou nas urnas quanto ao partido que lançou a sua candidatura. Para a votação de uma medida polêmica que possui alta desaprovação popular, um parlamentar pode votar diferente de seus pares partidarios.
+
+Para verificar essa 'lealdade', comparamos os votos de cada parlamentar com a sua rede de colegas no estado e no partido. Por exemplo, se o parlamentar votou 'Sim' em uma sessão, mas a maioria dos parlamentares do seu estado votaram 'Não', independente do partido, então este votaria contrario ao estado. O mesmo raciocínio vale para os votos no partido. No fim teremos um saldo, em que será possível ter uma idéia de se o parlamentar está mais alinhado ao partido, ao estado ou à ambos. Em alguns casos isso não ocorre para nenhum dos dois grupos, como é o caso do deputado Camilo Capiberibe -PSB, do Amapá, que votou diferente da maioria tanto no estado quanto no partido.
+
+Do jeito que foi desenhada, essa métrica possui diversas falhas, pois não capta a real afinidade de cada parlamentar com a sua rede imediata. Como há uma grande quantidade de parlamentares ligadas ao governo, em geral é fácil para o parlamentar seguir os votos do partido e do estado, apresentando assim um saldo positivo. A tendência do congressita para um ou outro lado não é aferida, nesse caso. Entretanto, é possível ter uma idéia geral, como o gráfico que mostra os votos nos estados, que quando comparado aos votos nos partidos, mostra uma maior heterogeneidade.
