@@ -31,3 +31,23 @@ Projeto final para a disciplina de Fundamentos de Data Science, da Escola de Mat
 * **Sessões-parte18-19.zip**: amostra de algumas sessões de 2018 e 2019.
 * **dias_sessao.ipynb**: código para baixar os dias em que houve pelo menos uma sessão no plenário. 
 * **scrape_teste4.ipynb**: código para extrair os discursos dos deputados do site da Câmara dos Deputados.
+
+### Requisitos
+Para instalar as bibliotecas abaixo, foi utilizado o software Anaconda.
+* tika: conda install -c conda-forge tika (extração de dados de documentos em pdf)
+* spacy: conda install -c conda-forge spacy (biblioteca de NLP)
+         conda install -c conda-forge spacy-model-pt_core_news_sm (utilizado para 'lematization')
+* pyLDAvis: conda install -c conda-forge pydavis (visualização dos tópicos gerados por LDA)
+* Wordcloud: conda install -c conda-forge wordcloud
+* Altair: conda install -c conda-forge altair (visualizações interativas)
+* gensim: conda install -c anaconda gensim
+
+Caso não possua o Anaconda, segue o link:https://www.anaconda.com/distribution/
+
+
+
+
+
+         
+         
+* 
