@@ -1,0 +1,514 @@
+Nome;Partido;Estado;Codigo;CC01O007E008923;CD01O137E008915;CD01O137E008916;CD01O137E008917;CD01O137E008918;CD01O137E008919;CD01O137E008920;CD01O137E008921;CD01O137E008922;CD01O155E008925;CD01O155E008927;CD01O166O008930;CD01O166O008934;CD01O167E008936;CD01O170O008943;CD01O170O008950;CD01O171E008952;SF01O007E008924;Lado;tsne-1d-one;tsne-2d-two
+HAROLDO CATHEDRAL;PSD;Roraima;1;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não Votou;Não Votou;Não Votou;Não;Não;Sim;Não;Sim;Sim;Não Votou;GOVERNO;6.581172;17.648087
+EDIO LOPES;PL;Roraima;2;Sim;Sim;Não Votou;Sim;Sim;Sim;Sim;Não;Sim;Abstenção;Não Votou;Não;Não;Sim;Não;Não Votou;Sim;Não Votou;MINORIA;4.3063283;15.673539
+JOENIA WAPICHANA;REDE;Roraima;3;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Obstrução;Obstrução;Não;Não;Sim;Não Votou;Não Votou;Não;Sim;OPOSIÇÃO;-5.8938074;-18.480722
+HIRAN GONÇALVES;PP;Roraima;4;Não Votou;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não;Sim;Não Votou;Não Votou;Não Votou;Não;Não Votou;Não Votou;Não;Não Votou;Sim;GOVERNO;-3.9124327;5.5676284
+JHONATAN DE JESUS;PRB;Roraima;5;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Sim;Não;Sim;Não Votou;Não Votou;GOVERNO;-11.665006;6.024951
+NICOLETTI;PSL;Roraima;6;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não;Não Votou;Obstrução;Não;Não;Não;Não;Sim;GOVERNO;-10.103153;-2.3914053
+OTACI NASCIMENTO;Solidariedade;Roraima;7;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não Votou;Não;Sim;Não;Sim;Sim;Sim;MINORIA;12.401935;21.186447
+SHÉRIDAN;PSDB;Roraima;8;Não Votou;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não Votou;Não;Não;Sim;Não;Sim;Sim;Sim;GOVERNO;9.77746;18.53285
+ANDRÉ ABDON;PP;Amapá;9;Sim;Sim;Sim;Não Votou;Não Votou;Sim;Sim;Não;Sim;Não;Não;Não;Não Votou;Sim;Não Votou;Sim;Sim;Sim;GOVERNO;2.8023436;11.566539
+ACÁCIO FAVACHO;PROS;Amapá;10;Sim;Sim;Sim;Não Votou;Sim;Sim;Sim;Não Votou;Sim;Não Votou;Não Votou;Não;Não Votou;Sim;Não;Sim;Sim;Não Votou;MINORIA;3.6625183;18.56205
+ALINE GURGEL;PRB;Amapá;11;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não Votou;Não Votou;Sim;Sim;GOVERNO;2.3546724;23.271736
+CAMILO CAPIBERIBE;PSB;Amapá;12;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Obstrução;Obstrução;Não;Não;Sim;Sim;Sim;Sim;Sim;OPOSIÇÃO;-14.606038;-20.207176
+LEDA SADALA;Avate;Amapá;14;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não;Não Votou;Não Votou;Não Votou;MINORIA;7.7729278;5.186388
+PROFESSORA MARCIVANIA;PCdoB;Amapá;15;Não Votou;Sim;Sim;Sim;Sim;Sim;Não;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não;Sim;Não Votou;Sim;Sim;Sim;OPOSIÇÃO;-16.283125;-24.71865
+VINICIUS GURGEL;PL;Amapá;16;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não Votou;Não Votou;Sim;Sim;MINORIA;-9.909875;8.809764
+LUIZ CARLOS;PSDB;Amapá;17;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Não Votou;Sim;Não Votou;Sim;Não;Não;Sim;Não Votou;Sim;Sim;Não Votou;GOVERNO;4.1887426;21.412403
+AIRTON FALEIRO;PT;Pará;18;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Obstrução;Obstrução;Não Votou;Não Votou;Sim;Não;Sim;Sim;Não Votou;OPOSIÇÃO;-21.321121;-19.632145
+BETO FARO;PT;Pará;19;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Obstrução;Não Votou;Não Votou;Não;Sim;Não;Sim;Sim;Sim;OPOSIÇÃO;-19.670572;-22.29921
+CÁSSIO ANDRADE;PSB;Pará;20;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Não;Obstrução;Não Votou;Não Votou;Sim;Sim;Sim;Sim;Sim;OPOSIÇÃO;-14.142577;-20.480429
+ELCIONE BARBALHO;MDB;Pará;21;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Não;Não;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Sim;GOVERNO;12.196764;-0.4881173
+DELEGADO ÉDER MAURO;PSD;Pará;22;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não Votou;Não Votou;Não;Não Votou;Não Votou;Não;Não;Sim;GOVERNO;13.003473;-4.8212504
+CELSO SABINO;PSDB;Pará;23;Sim;Sim;Não Votou;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não;Não Votou;Sim;Não;Não;Não;Sim;GOVERNO;7.4426126;-11.318669
+CRISTIANO VALE;PL;Pará;25;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não Votou;Não;Não Votou;Sim;Não;Sim;Não;Sim;MINORIA;14.8295965;8.498855
+JOSÉ PRIANTE;MDB;Pará;26;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não Votou;Não Votou;Não Votou;Não Votou;Não;Sim;Sim;GOVERNO;13.696961;-0.40780577
+EDMILSON RODRIGUES;PSOL;Pará;27;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Obstrução;Obstrução;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;OPOSIÇÃO;-10.191141;-14.735582
+EDUARDO COSTA;PTB;Pará;28;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não;Não Votou;Não Votou;Sim;Não;Sim;Sim;Sim;GOVERNO;-14.326914;5.664204
+JÚNIOR FERRARI;PSD;Pará;29;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não;Sim;Não;Não;Não;Sim;GOVERNO;-6.6566534;-0.93675524
+OLIVAL MARQUES;DEM;Pará;30;Sim;Não Votou;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não;Sim;Sim;Sim;GOVERNO;10.066776;15.107698
+NILSON PINTO;PSDB;Pará;31;Não Votou;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não Votou;Não;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Sim;GOVERNO;7.993068;1.2669282
+HÉLIO LEITE;DEM;Pará;32;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não Votou;Não;Sim;Não;Sim;Sim;Não Votou;GOVERNO;13.463871;19.493073
+JOAQUIM PASSARINHO;PSD;Pará;33;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não;Não;Não;Não;Não;Não;Art.51;GOVERNO;17.569435;-6.8962083
+PAULO BENGTSON;PTB;Pará;34;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não;Não;Não Votou;Não Votou;Não;Sim;Sim;Sim;GOVERNO;-16.752214;6.247198
+VAVÁ MARTINS;PRB;Pará;35;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não;Não Votou;Não;Não;Não;Sim;Sim;Sim;GOVERNO;-17.518305;6.580214
+CAPITÃO ALBERTO NETO;PRB;Amazonas;36;Não Votou;Não Votou;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não Votou;Não;Não;Não;Sim;Sim;Sim;GOVERNO;18.84845;15.36292
+BOSCO SARAIVA;Solidariedade;Amazonas;37;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não Votou;Não Votou;Não;Não;Sim;Não;Sim;Sim;Sim;MINORIA;7.345791;19.603365
+ÁTILA LINS;PP;Amazonas;38;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não Votou;Não Votou;Não Votou;Não;Sim;Não;Sim;Não Votou;Sim;GOVERNO;7.8218155;23.216202
+SILAS CÂMARA;PRB;Amazonas;39;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;GOVERNO;-8.001934;3.876703
+DELEGADO PABLO;PSL;Amazonas;40;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Sim;GOVERNO;11.218571;-0.53113776
+JOSÉ RICARDO;PT;Amazonas;41;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Obstrução;Obstrução;Não;Não;Sim;Não;Sim;Sim;Sim;OPOSIÇÃO;-19.7443;-21.15923
+MARCELO RAMOS;PL;Amazonas;42;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Não;Não Votou;Não;Não;Sim;Não Votou;Sim;Não Votou;Sim;MINORIA;13.376315;11.085919
+SIDNEY LEITE;PSD;Amazonas;43;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não;Não Votou;Não;Não Votou;Sim;Sim;Sim;GOVERNO;18.94178;13.982638
+EXPEDITO NETTO;PSD;Rondonia;44;Não Votou;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Não Votou;Sim;Não;Não Votou;Sim;Não;Não;Sim;Sim;GOVERNO;-15.580684;-11.286309
+CORONEL CHRISÓSTOMO;PSL;Rondonia;45;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Não;Não;Não Votou;Obstrução;Não;Não;Não;Não;Não Votou;GOVERNO;18.407497;-7.892842
+LUCIO MOSQUINI;MDB;Rondonia;46;Sim;Sim;Sim;Sim;Não Votou;Sim;Sim;Não Votou;Sim;Não Votou;Sim;Não Votou;Não;Sim;Não Votou;Sim;Sim;Sim;GOVERNO;4.424792;22.623743
+JAQUELINE CASSOL;PP;Rondonia;47;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não Votou;Não Votou;Não Votou;Não;Sim;Não;Não;Não;Não Votou;GOVERNO;5.6733007;-7.4744473
+LÉO MORAES;Podemos;Rondonia;48;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não Votou;Não;Não;Não;Sim;Não;Não;Não;Não Votou;MINORIA;5.856716;-9.30551
+MAURO NAZIF;PSB;Rondonia;49;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Não;Não;Não;Não;Sim;Não;Não;Não;Sim;OPOSIÇÃO;-3.9732652;-17.521776
+SILVIA CRISTINA;PDT;Rondonia;50;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Obstrução;Não Votou;Não;Não;Sim;Obstrução;Não;Não;Sim;MINORIA;-3.806766;-17.092953
+MARIANA CARVALHO;PSDB;Rondonia;51;Sim;Sim;Sim;Não Votou;Sim;Sim;Sim;Não Votou;Não Votou;Não;Não;Não Votou;Não Votou;Sim;Não Votou;Sim;Sim;Sim;GOVERNO;17.0635;22.500675
+JESUS SÉRGIO;PDT;Acre;52;Sim;Não Votou;Sim;Sim;Sim;Sim;Não;Não;Sim;Não Votou;Não Votou;Não;Não Votou;Não Votou;Obstrução;Obstrução;Sim;Sim;MINORIA;-14.840076;-11.380641
+ALAN RICK;DEM;Acre;53;Sim;Não Votou;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não Votou;Não;Não;Não Votou;Sim;Não;Sim;Sim;Sim;GOVERNO;8.918472;14.35574
+FLAVIANO MELO;MDB;Acre;54;Sim;Sim;Não Votou;Sim;Sim;Sim;Sim;Não;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Sim;Sim;GOVERNO;5.855688;11.051354
+MANUEL MARCOS;PRB;Acre;55;Não Votou;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não;Sim;Sim;Sim;GOVERNO;10.195498;18.548338
+JÉSSICA SALES;MDB;Acre;56;Não Votou;Sim;Não Votou;Sim;Sim;Sim;Sim;Não;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Sim;GOVERNO;6.8391585;1.9034914
+MARA ROCHA;PSDB;Acre;57;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não;Não;Não;Sim;GOVERNO;7.4589286;-10.415009
+PERPÉTUA ALMEIDA;PCdoB;Acre;58;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Não Votou;Não Votou;Não;Não;Sim;Não;Sim;Sim;Sim;OPOSIÇÃO;-19.95936;-23.630022
+DRA. VANDA MILANI;Solidariedade;Acre;59;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não Votou;Não;Não;Não Votou;Não;Sim;Não;Sim;Sim;Sim;MINORIA;12.4322;21.67787
+CARLOS HENRIQUE GAGUIM;DEM;Tocantins;60;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não Votou;Não;Não;Não;Não;Sim;Sim;Não Votou;GOVERNO;17.66187;14.960167
+DULCE MIRANDA;MDB;Tocantins;61;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não Votou;Não Votou;Não Votou;Não;Sim;Não;Sim;Sim;Não Votou;GOVERNO;7.213819;21.352654
+CÉLIO MOURA;PT;Tocantins;62;Sim;Sim;Sim;Sim;Não Votou;Não Votou;Não;Não;Sim;Abstenção;Abstenção;Não;Não;Sim;Não Votou;Sim;Sim;Sim;OPOSIÇÃO;-18.296791;-16.181265
+ELI BORGES;Solidariedade;Tocantins;63;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Não;Não;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Sim;MINORIA;12.196418;-0.48812324
+OSIRES DAMASO;PSC;Tocantins;64;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não;Sim;Não;Sim;GOVERNO;15.630894;9.035397
+TIAGO DIMAS;Solidariedade;Tocantins;65;Sim;Sim;Sim;Não Votou;Sim;Sim;Sim;Não;Sim;Não Votou;Não;Não;Não;Sim;Não;Sim;Sim;Sim;MINORIA;8.533379;19.801025
+VICENTINHO JÚNIOR;PL;Tocantins;66;Sim;Não Votou;Não Votou;Sim;Sim;Sim;Sim;Não;Sim;Não Votou;Não Votou;Não;Não Votou;Não Votou;Não;Sim;Sim;Sim;MINORIA;6.464672;12.916932
+PROFESSORA DORINHA SEABRA REZEN;DEM;Tocantins;67;Não Votou;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Sim;Sim;Não;Não Votou;Não;Não;Sim;Não Votou;Não Votou;Sim;Não Votou;GOVERNO;-11.781556;10.8233185
+ALUISIO MENDES;Podemos;Maranhão;68;Sim;Não Votou;Não Votou;Sim;Sim;Sim;Sim;Não;Não Votou;Não Votou;Não Votou;Não Votou;Não;Sim;Não;Sim;Não Votou;Sim;MINORIA;7.8063474;23.865133
+CLEBER VERDE;PRB;Maranhão;70;Sim;Sim;Não Votou;Sim;Sim;Sim;Sim;Não;Sim;Não;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Sim;Sim;GOVERNO;5.861339;10.98364
+BIRA DO PINDARÉ;PSB;Maranhão;71;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Obstrução;Obstrução;Não;Não;Sim;Sim;Abstenção;Sim;Sim;OPOSIÇÃO;-14.386278;-19.705118
+ANDRÉ FUFUCA;PP;Maranhão;72;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não Votou;Não;Não Votou;Não Votou;Sim;Não Votou;Não Votou;Sim;Sim;GOVERNO;-9.548991;9.078354
+EDILÁZIO JÚNIOR;PSD;Maranhão;73;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Não Votou;Não;Não;Não;Sim;Não;Sim;Sim;Não Votou;GOVERNO;14.39297;14.634181
+HILDO ROCHA;MDB;Maranhão;74;Sim;Sim;Não Votou;Não Votou;Não Votou;Sim;Sim;Não;Sim;Não;Não;Não;Não;Não Votou;Não;Não;Não;Sim;GOVERNO;7.2000327;-12.372457
+EDUARDO BRAIDE;PMN;Maranhão;75;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não Votou;Não;Sim;Não;Não;Não;Sim;GOVERNO;7.8193054;-7.697489
+JOÃO MARCELO SOUZA;MDB;Maranhão;76;Sim;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não;Sim;Não;Não Votou;Não Votou;Não;Sim;Não;Sim;Não;Sim;GOVERNO;-1.9285427;14.634518
+GIL CUTRIM;PDT;Maranhão;77;Não Votou;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Obstrução;Não Votou;Não;Não Votou;Não Votou;Não;Obstrução;Sim;Sim;MINORIA;15.087756;-0.8690462
+JOSIMAR MARANHÃOZINHO;PL;Maranhão;78;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não Votou;Não Votou;Não Votou;Não;Não Votou;Sim;Não Votou;Sim;Sim;Sim;MINORIA;2.2547505;21.978369
+JUSCELINO FILHO;DEM;Maranhão;79;Não Votou;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Não;Não;Não;Não;Sim;Não Votou;Sim;Sim;Sim;GOVERNO;10.604828;19.030416
+JUNIOR LOURENÇO;PL;Maranhão;80;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não;Sim;Não;Sim;Sim;Sim;MINORIA;-13.092524;8.51441
+MÁRCIO JERRY;PCdoB;Maranhão;82;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Não Votou;Não Votou;Não;Não;Sim;Não;Sim;Sim;Não Votou;OPOSIÇÃO;-20.304842;-24.097359
+MARRECA FILHO;Patriota;Maranhão;83;Sim;Sim;Não Votou;Sim;Sim;Sim;Sim;Não;Sim;Não Votou;Não;Não;Não Votou;Sim;Não;Não;Não;Não Votou;MINORIA;5.497009;-10.29175
+PASTOR GILDENEMYR;PMN;Maranhão;84;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Sim;Não;Não Votou;Sim;Sim;GOVERNO;2.433952;23.463583
+PEDRO LUCAS FERNANDES;PTB;Maranhão;85;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não Votou;Não Votou;Não Votou;Sim;GOVERNO;12.230572;6.3572526
+ZÉ CARLOS;PT;Maranhão;86;Não Votou;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Não Votou;Não Votou;Não;Não;Sim;Não;Sim;Sim;;OPOSIÇÃO;-20.901127;-24.65596
+AJ ALBUQUERQUE;PP;Ceará;87;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não Votou;Não Votou;Não Votou;Não;Sim;Não Votou;Sim;Sim;;GOVERNO;6.0512395;21.996473
+CAPITÃO WAGNER;PROS;Ceará;88;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não;Não;Não Votou;Sim;Não;Não Votou;Sim;;MINORIA;-15.553912;3.982446
+ANDRÉ FIGUEIREDO;PDT;Ceará;89;Sim;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Obstrução;Obstrução;Sim;;MINORIA;-10.8686695;-7.802201
+CÉLIO STUDART;PV;Ceará;90;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Não;Não;Não Votou;Não;Sim;Não;Não;Não;;MINORIA;-3.3155909;-18.63553
+DENIS BEZERRA;PSB;Ceará;91;Sim;Sim;Não Votou;Sim;Sim;Sim;Não;Não;Sim;Não;Obstrução;Não;Não;Sim;Sim;Não;Sim;;OPOSIÇÃO;-13.712695;-18.152819
+DR. JAZIEL;PL;Ceará;92;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não Votou;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;;MINORIA;-5.695841;4.7552342
+EDUARDO BISMARCK;PDT;Ceará;93;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Obstrução;Não Votou;Não;Não Votou;Não Votou;Não Votou;Obstrução;Sim;;MINORIA;-13.485704;-12.691445
+HEITOR FREIRE;PSL;Ceará;94;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não;Sim;Não Votou;Não Votou;Não Votou;Sim;Não;Não;Não Votou;Não;;GOVERNO;-2.8641868;2.0495622
+IDILVAN ALENCAR;PDT;Ceará;95;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Obstrução;Não;Não Votou;Sim;Não Votou;Não;Sim;;MINORIA;-15.891964;1.6112599
+LEÔNIDAS CRISTINO;PDT;Ceará;96;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Obstrução;Não Votou;Não Votou;Não Votou;Não Votou;Obstrução;Obstrução;Sim;;MINORIA;-14.442279;-13.514096
+DOMINGOS NETO;PSD;Ceará;97;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não;Sim;Não Votou;Não Votou;Não;Não Votou;Não Votou;Não;Não Votou;Não Votou;;GOVERNO;-3.0544796;3.4351454
+LUIZIANNE LINS;PT;Ceará;98;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não Votou;Sim;Sim;;OPOSIÇÃO;-10.4111185;7.898129
+GENECIAS NORONHA;Solidariedade;Ceará;99;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não Votou;Não Votou;Não;Não Votou;Sim;Não;Não Votou;Não Votou;;MINORIA;-7.3017945;5.2836733
+JÚNIOR MANO;PL;Ceará;100;Sim;Sim;Não Votou;Não Votou;Não Votou;Sim;Sim;Não;Sim;Não;Não;Não Votou;Não;Sim;Não Votou;Não Votou;Sim;;MINORIA;-0.21537629;11.764137
+JOSÉ AIRTON CIRILO;PT;Ceará;101;Sim;Não Votou;Sim;Sim;Sim;Sim;Não;Não;Sim;Não Votou;Não Votou;Não Votou;Não;Sim;Não Votou;Sim;Sim;;OPOSIÇÃO;-18.518673;-23.647327
+JOSÉ GUIMARÃES;PT;Ceará;103;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Não Votou;Não Votou;Não Votou;Não;Não;Sim;Não;Sim;Sim;;OPOSIÇÃO;-19.551191;-24.34256
+PEDRO AUGUSTO BEZERRA;PTB;Ceará;104;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não Votou;Não;Sim;Não;Sim;Sim;;GOVERNO;12.9924555;20.319675
+ROBÉRIO MONTEIRO;PDT;Ceará;105;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não Votou;Sim;Não;Não Votou;Não;Não Votou;Não Votou;Obstrução;Obstrução;Sim;;MINORIA;-14.539902;-12.44455
+MOSES RODRIGUES;MDB;Ceará;106;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não;Sim;Não Votou;Não Votou;Não;Não;Sim;Não;Não Votou;Não Votou;;GOVERNO;-2.916316;3.8034024
+ROBERTO PESSOA;PSDB;Ceará;107;Sim;Não Votou;Não Votou;Não Votou;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não;Não;Não;Não Votou;Não Votou;Não Votou;Sim;;GOVERNO;-17.04185;4.003747
+VAIDON OLIVEIRA;PROS;Ceará;108;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não;Não Votou;Sim;;MINORIA;-0.14565495;9.356721
+ÁTILA LIRA;PSB;Piauí;109;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não Votou;Sim;Não Votou;;OPOSIÇÃO;14.747309;11.283998
+FLÁVIO NOGUEIRA;PDT;Piauí;110;Sim;Não Votou;Não Votou;Não Votou;Sim;Sim;Não;Não;Sim;Obstrução;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Sim;;MINORIA;-11.375567;-10.159393
+ASSIS CARVALHO;PT;Piauí;111;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;;OPOSIÇÃO;-8.001931;3.8767462
+IRACEMA PORTELLA;PP;Piauí;113;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não Votou;Sim;Não;Não;Não Votou;Não Votou;Não Votou;Não;Sim;Sim;;GOVERNO;-9.56721;10.983656
+JÚLIO CESAR;PSD;Piauí;114;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Não Votou;Sim;Não;Não Votou;Não Votou;Não;Sim;Não;Não;Não;;GOVERNO;6.315042;-6.4775276
+MARCOS AURÉLIO SAMPAIO;MDB;Piauí;115;Sim;Sim;Não Votou;Não Votou;Sim;Sim;Sim;Não;Sim;Não;Não Votou;Não Votou;Não;Sim;Não;Sim;Sim;;GOVERNO;0.49726292;15.144411
+REJANE DIAS;PT;Piauí;116;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não Votou;Sim;Abstenção;Abstenção;Não;Não;Sim;Não;Sim;Sim;;OPOSIÇÃO;-20.88942;-23.602251
+MARGARETE COELHO;PP;Piauí;117;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não;Não;Não;;GOVERNO;-7.2607875;-1.8823402
+MARINA SANTOS;Solidariedade;Piauí;118;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não;Sim;Sim;;MINORIA;12.607219;16.331131
+FÁBIO FARIA;PSD;Rio Grande do Norte;119;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Não;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Sim;;GOVERNO;6.277421;4.362144
+BENES LEOCÁDIO;PRB;Rio Grande do Norte;120;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não;Não;Não;Sim;Não;Sim;Sim;;GOVERNO;-15.2273445;6.6211195
+BETO ROSADO;PP;Rio Grande do Norte;121;Sim;Sim;Não Votou;Sim;Sim;Sim;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não Votou;Não Votou;Sim;Sim;;GOVERNO;-6.2478647;13.943395
+GENERAL GIRÃO;PSL;Rio Grande do Norte;122;Sim;Não Votou;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;;GOVERNO;6.9597716;3.6799757
+RAFAEL MOTTA;PSB;Rio Grande do Norte;123;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Obstrução;Não Votou;Não Votou;Não;Sim;Sim;Sim;Não Votou;;OPOSIÇÃO;-11.370709;-20.443632
+JOÃO MAIA;PL;Rio Grande do Norte;124;Sim;Não Votou;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não Votou;Não;Sim;Não Votou;Sim;Sim;;MINORIA;13.605368;23.628357
+WALTER ALVES;MDB;Rio Grande do Norte;125;Sim;Sim;Não Votou;Não Votou;Não Votou;Sim;Sim;Não;Sim;Não;Não Votou;Não Votou;Não Votou;Sim;Não;Sim;Não Votou;;GOVERNO;-0.9408204;15.049529
+NATÁLIA BONAVIDES;PT;Rio Grande do Norte;126;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Não Votou;Obstrução;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;;OPOSIÇÃO;-10.923146;-14.329741
+DAMIÃO FELICIANO;PDT;Paraíba;127;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não;Sim;Obstrução;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Sim;;MINORIA;-11.302397;-9.840734
+EFRAIM FILHO;DEM;Paraíba;128;Sim;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não;Sim;Não;Não;Não Votou;Não;Sim;Não;Sim;Sim;;GOVERNO;-0.03294994;10.916059
+AGUINALDO RIBEIRO;PP;Paraíba;129;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não Votou;Não Votou;Não;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;;GOVERNO;-7.201667;4.7465
+EDNA HENRIQUE;PSDB;Paraíba;130;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Não;Não;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;;GOVERNO;11.91759;0.6090044
+FREI ANASTACIO RIBEIRO;PT;Paraíba;131;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não Votou;Não;Não Votou;Abstenção;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;;OPOSIÇÃO;-12.298253;-15.666981
+HUGO MOTTA;PRB;Paraíba;132;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não Votou;Não;Não Votou;Não;Sim;Não;Sim;Sim;;GOVERNO;10.51414;21.735464
+GERVÁSIO MAIA;PSB;Paraíba;133;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Não Votou;Não Votou;Não Votou;Não;Não;Sim;Sim;Sim;Sim;;OPOSIÇÃO;-16.938206;-23.588156
+JULIAN LEMOS;PSL;Paraíba;134;Sim;Sim;Sim;Sim;Não Votou;Sim;Sim;Não Votou;Sim;Não;Não;Não Votou;Abstenção;Não;Não;Não;Não;;GOVERNO;19.89251;-9.200214
+PEDRO CUNHA LIMA;PSDB;Paraíba;135;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não;Sim;Não;Sim;Não;;GOVERNO;12.736736;9.152754
+WELLINGTON ROBERTO;PL;Paraíba;136;Sim;Não Votou;Não Votou;Não Votou;Sim;Sim;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Sim;Não Votou;Sim;Sim;;MINORIA;-5.9740367;13.421102
+RUY CARNEIRO;PSDB;Paraíba;137;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Não Votou;Não Votou;Não Votou;Não;Sim;Não;;GOVERNO;16.384825;3.6198
+WILSON SANTIAGO;PTB;Paraíba;138;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não Votou;Não;Sim;Não;Sim;Sim;;GOVERNO;13.407206;20.579454
+ANDRÉ FERREIRA;PSC;Pernambuco;139;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;;GOVERNO;7.6154437;3.4486823
+ANDRÉ DE PAULA;PSD;Pernambuco;140;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Não Votou;Não;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Sim;;GOVERNO;7.827799;9.385987
+AUGUSTO COUTINHO;Solidariedade;Pernambuco;141;Sim;Sim;Não Votou;Sim;Sim;Sim;Não Votou;Não Votou;Não Votou;Não;Não;Não;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;;MINORIA;10.111408;-2.128838
+CARLOS VERAS;PT;Pernambuco;142;Sim;Sim;Não Votou;Não Votou;Sim;Sim;Não;Não;Sim;Obstrução;Obstrução;Não Votou;Não;Sim;Não;Sim;Não Votou;;OPOSIÇÃO;-23.714222;-23.616688
+GONZAGA PATRIOTA;PSB;Pernambuco;143;Não Votou;Não Votou;Não Votou;Sim;Não Votou;Não Votou;Não;Não Votou;Sim;Obstrução;Não Votou;Não Votou;Não;Sim;Não;Sim;Sim;;OPOSIÇÃO;-14.8335705;10.313015
+DANIEL COELHO;CIDADANIA;Pernambuco;144;Sim;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Sim;Não;Não Votou;Não Votou;Não;Sim;Não;Não;Não Votou;;MINORIA;-10.131811;-6.839652
+FELIPE CARRERAS;PSB;Pernambuco;145;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não;Não Votou;Não;Não;Não;Não;Sim;Sim;Não;Sim;;OPOSIÇÃO;-16.194227;0.39779958
+FERNANDO MONTEIRO;PP;Pernambuco;146;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Sim;Não;Sim;Sim;;GOVERNO;-12.273687;8.089122
+FERNANDO RODOLFO;PL;Pernambuco;147;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não Votou;Não;Não Votou;Não;Sim;Não;Sim;Abstenção;;MINORIA;10.004287;21.904263
+DANILO CABRAL;PSB;Pernambuco;148;Sim;Não Votou;Sim;Sim;Sim;Sim;Não;Não;Sim;Obstrução;Obstrução;Não;Não;Sim;Sim;Sim;Não;;OPOSIÇÃO;-9.355924;-20.12158
+JOÃO H. CAMPOS;PSB;Pernambuco;149;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Obstrução;Obstrução;Não Votou;Não;Sim;Não Votou;Sim;Sim;;OPOSIÇÃO;-18.440937;-19.854458
+LUCIANO BIVAR;PSL;Pernambuco;150;Não Votou;Sim;Não Votou;Não Votou;Não Votou;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;;GOVERNO;-7.38649;3.6176162
+MARÍLIA ARRAES;PT;Pernambuco;151;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não;Sim;Não Votou;Sim;Não Votou;;OPOSIÇÃO;-10.791362;5.497783
+OSSESIO SILVA;PRB;Pernambuco;152;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não;Sim;Sim;;GOVERNO;12.542537;17.163689
+RAUL HENRY;MDB;Pernambuco;153;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não;Não;Não;Sim;Não;Não;Sim;;GOVERNO;-15.914072;2.3303292
+RENILDO CALHEIROS;PCdoB;Pernambuco;154;Sim;Sim;Sim;Sim;Não Votou;Sim;Não;Não;Sim;Não Votou;Obstrução;Não Votou;Não;Sim;Não Votou;Sim;Sim;;OPOSIÇÃO;-18.032925;-18.761549
+PASTOR EURICO;Patriota;Pernambuco;155;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Não Votou;Não Votou;Não;Sim;Não;Não;Não;Não;;MINORIA;21.908092;-8.151301
+EDUARDO DA FONTE;PP;Pernambuco;156;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não;Sim;Não Votou;Não;Não Votou;Não Votou;Sim;Sim;Sim;Sim;;GOVERNO;-5.8687425;8.86835
+RICARDO TEOBALDO;Podemos;Pernambuco;157;Não Votou;Sim;Não Votou;Não Votou;Sim;Sim;Sim;Não;Não Votou;Não;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;;MINORIA;5.35744;0.7743506
+FERNANDO COELHO FILHO;DEM;Pernambuco;158;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Não Votou;Não;Não Votou;Não Votou;Não Votou;Não Votou;Não;Sim;Sim;;GOVERNO;7.865712;9.434348
+SEBASTIÃO OLIVEIRA;PL;Pernambuco;159;Sim;Não Votou;Não Votou;Não Votou;Sim;Sim;Sim;Não Votou;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;;MINORIA;3.6938436;3.8950455
+SILVIO COSTA FILHO;PRB;Pernambuco;160;Sim;Sim;Sim;Não Votou;Sim;Sim;Sim;Não;Sim;Não Votou;Não Votou;Não;Não;Sim;Não Votou;Sim;Sim;;GOVERNO;5.3765626;20.17061
+TADEU ALENCAR;PSB;Pernambuco;161;Não Votou;Não Votou;Sim;Sim;Não Votou;Sim;Não;Não Votou;Não Votou;Obstrução;Obstrução;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não;;OPOSIÇÃO;-9.583552;-4.1119695
+ARTHUR LIRA;PP;Alagoas;162;Não Votou;Sim;Não Votou;Não Votou;Sim;Sim;Sim;Não;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não Votou;Sim;Sim;;GOVERNO;0.45386308;17.090422
+TÚLIO GADÊLHA;PDT;Pernambuco;163;Sim;Sim;Sim;Sim;Não Votou;Sim;Não;Não;Sim;Obstrução;Não Votou;Não Votou;Não;Sim;Não Votou;Obstrução;Sim;;MINORIA;-16.014702;-14.613782
+WOLNEY QUEIROZ;PDT;Pernambuco;164;Sim;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não;Sim;Obstrução;Não Votou;Não Votou;Não Votou;Não Votou;Obstrução;Obstrução;Sim;;MINORIA;-10.954596;-8.11414
+ISNALDO BULHÕES JR.;MDB;Alagoas;165;Sim;Sim;Não Votou;Não Votou;Não Votou;Sim;Sim;Não;Não Votou;Não;Não Votou;Não;Não;Sim;Não Votou;Não Votou;Sim;;GOVERNO;0.20403089;12.5176
+NIVALDO ALBUQUERQUE;PTB;Alagoas;166;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não Votou;Não Votou;Não;Não;Sim;Não;Sim;Sim;;GOVERNO;6.3665147;18.881323
+JHC;PSB;Alagoas;167;Não Votou;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não Votou;Não Votou;Não;Não;Sim;Não Votou;Não Votou;Não;;OPOSIÇÃO;4.1151867;-5.30932
+SERGIO TOLEDO;PL;Alagoas;168;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não Votou;Não Votou;Não Votou;Sim;Não;Sim;Não Votou;;MINORIA;-12.721037;4.973056
+MARX BELTRÃO;PSD;Alagoas;169;Não Votou;Sim;Sim;Não Votou;Não Votou;Sim;Sim;Não;Sim;Não Votou;Não;Não Votou;Não Votou;Sim;Não;Sim;Sim;;GOVERNO;-0.2304191;18.718876
+PAULÃO;PT;Alagoas;170;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Obstrução;Obstrução;Não;Não Votou;Sim;Não;Sim;Sim;;OPOSIÇÃO;-21.802164;-20.153706
+SEVERINO PESSOA;PRB;Alagoas;172;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Não Votou;Não;Não;Não;Não Votou;Não;Não Votou;Sim;Não Votou;;GOVERNO;14.714063;3.1337674
+TEREZA NELMA;PSDB;Alagoas;173;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não;Não;Não;Sim;Não Votou;Sim;Não;;GOVERNO;-11.090529;0.242361
+BOSCO COSTA;PL;Sergipe;174;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não;Não Votou;Não;Sim;Não;Não;Sim;;MINORIA;-15.02596;2.3265288
+FÁBIO HENRIQUE;PDT;Sergipe;175;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Não;Não Votou;Não Votou;Não Votou;Sim;Não;Obstrução;Sim;;MINORIA;-14.863572;-13.699225
+LAERCIO OLIVEIRA;PP;Sergipe;176;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não Votou;Não Votou;Sim;Não;Sim;Sim;;GOVERNO;-13.482441;6.2913547
+FÁBIO MITIDIERI;PSD;Sergipe;177;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Sim;Não Votou;Sim;Não;Não;Não;Não;Sim;Não;Sim;Sim;;GOVERNO;-0.98260224;9.803571
+FABIO REIS;MDB;Sergipe;178;Sim;Não Votou;Não Votou;Não Votou;Sim;Sim;Sim;Não;Sim;Não Votou;Não Votou;Não;Não Votou;Sim;Não Votou;Sim;Sim;;GOVERNO;1.3170288;17.154589
+JOÃO DANIEL;PT;Sergipe;179;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Obstrução;Obstrução;Não;Não;Sim;Não;Sim;Sim;;OPOSIÇÃO;-20.528227;-20.933256
+ALICE PORTUGAL;PCdoB;Bahia;180;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Obstrução;Não Votou;Não Votou;Não;Sim;Não;Sim;Sim;;OPOSIÇÃO;-19.94282;-22.164007
+GUSTINHO RIBEIRO;Solidariedade;Sergipe;181;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;;MINORIA;7.6206617;3.4457114
+AFONSO FLORENCE;PT;Bahia;182;Sim;Sim;Sim;Não Votou;Sim;Sim;Não;Não;Sim;Obstrução;Obstrução;Não;Não Votou;Sim;Não;Sim;Sim;;OPOSIÇÃO;-22.391018;-19.623344
+VALDEVAN NOVENTA;PSC;Sergipe;183;Sim;Sim;Não Votou;Não Votou;Não Votou;Sim;Não;Não;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;;GOVERNO;-10.601678;-11.358445
+BACELAR;Podemos;Bahia;184;Sim;Sim;Não Votou;Sim;Sim;Sim;Não;Não;Sim;Sim;Obstrução;Não;Não;Sim;Não;Sim;Sim;;MINORIA;-20.346252;-25.817223
+LÍDICE DA MATA;PSB;Bahia;185;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Obstrução;Obstrução;Não;Não;Sim;Não Votou;Sim;Sim;;OPOSIÇÃO;-15.482085;7.3777018
+CLAUDIO CAJADO;PP;Bahia;186;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não Votou;Sim;Não;Não;Sim;;GOVERNO;-17.217459;1.9796411
+JOÃO CARLOS BACELAR;PL;Bahia;187;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não;Sim;Sim;;MINORIA;-11.252758;8.615047
+DANIEL ALMEIDA;PCdoB;Bahia;188;Sim;Sim;Não Votou;Não Votou;Sim;Sim;Não;Não;Sim;Não Votou;Não Votou;Não Votou;Não;Não Votou;Não;Sim;Não Votou;;OPOSIÇÃO;-23.771952;-24.141775
+ANTONIO BRITO;PSD;Bahia;189;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não Votou;Não Votou;Não;Sim;Não;Abstenção;Não;;GOVERNO;7.1581664;-5.679093
+ABÍLIO SANTANA;PL;Bahia;190;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não Votou;Sim;Sim;;MINORIA;14.310705;17.083944
+ADOLFO VIANA;PSDB;Bahia;191;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não Votou;Sim;Não;;GOVERNO;16.598629;7.7998443
+ARTHUR OLIVEIRA MAIA;DEM;Bahia;192;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não Votou;Sim;Não Votou;Não Votou;Sim;;GOVERNO;-10.939403;9.5172
+CACÁ LEÃO;PP;Bahia;193;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não Votou;Não Votou;Não;Não Votou;Não Votou;Não Votou;Sim;Sim;;GOVERNO;7.911152;11.775969
+ALEX SANTANA;PDT;Bahia;194;Sim;Não Votou;Sim;Sim;Sim;Não Votou;Não;Não;Sim;Obstrução;Não Votou;Não;Não Votou;Não Votou;Não Votou;Não Votou;Sim;;MINORIA;-12.484825;-11.739805
+FÉLIX MENDONÇA JÚNIOR;PDT;Bahia;195;Sim;Sim;Sim;Não Votou;Sim;Não Votou;Não;Não Votou;Sim;Não;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;;MINORIA;-9.880017;-12.927366
+CHARLES FERNANDES;PSD;Bahia;196;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não Votou;Não;Não;Sim;Não;Sim;Sim;;GOVERNO;8.82344;16.987953
+IGOR KANNÁRIO;PHS;Bahia;197;Sim;Sim;Sim;Sim;Não Votou;Sim;Sim;Não;Sim;Não;Não;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;;GOVERNO;9.25391;-0.12585716
+ELMAR NASCIMENTO;DEM;Bahia;198;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Sim;Não;Não Votou;Sim;;GOVERNO;-12.073979;8.027132
+JOÃO ROMA;PRB;Bahia;199;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Não;Não;Não Votou;Não;Sim;Não;Sim;Não Votou;;GOVERNO;16.222128;13.070076
+LEUR LOMANTO JÚNIOR;DEM;Bahia;200;Sim;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não;Sim;Não;Não;Não;Não Votou;Sim;Não;Não;Sim;;GOVERNO;0.6672893;8.354437
+JOSÉ NUNES;PSD;Bahia;201;Sim;Sim;Não Votou;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não Votou;Não;Sim;Não;Sim;Sim;;GOVERNO;12.117221;19.585682
+JOSÉ ROCHA;PL;Bahia;203;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não Votou;Não Votou;;MINORIA;8.608742;4.7738447
+JORGE SOLLA;PT;Bahia;204;Sim;Sim;Sim;Não Votou;Sim;Sim;Não;Não;Não Votou;Obstrução;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;;OPOSIÇÃO;-11.7833605;-14.929564
+MARCELO NILO;PSB;Bahia;205;Sim;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não;Sim;Obstrução;Não Votou;Não;Não;Sim;Sim;Sim;Sim;;OPOSIÇÃO;-19.712818;-15.222977
+OTTO ALENCAR FILHO;PSD;Bahia;206;Sim;Sim;Sim;Sim;Não Votou;Não Votou;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não;Não;Sim;;GOVERNO;1.4927423;7.845651
+PASTOR SARGENTO ISIDÓRIO;Avate;Bahia;207;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Não;Não;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;;MINORIA;-10.18531;-14.732217
+MÁRIO NEGROMONTE JR.;PP;Bahia;208;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Não;Não;Não Votou;Não;Sim;Não;Sim;Sim;;GOVERNO;-20.382452;-20.035528
+NELSON PELLEGRINO;PT;Bahia;209;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não Votou;Sim;Obstrução;Obstrução;Não Votou;Não;Sim;Não;Sim;Sim;;OPOSIÇÃO;-19.942682;-19.557623
+PROFESSORA DAYANE PIMENTEL;PSL;Bahia;210;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;;GOVERNO;10.18579;0.29931414
+RAIMUNDO COSTA;PL;Bahia;211;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;;MINORIA;10.38285;0.25336105
+MÁRCIO MARINHO;PRB;Bahia;212;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não Votou;Não;Não Votou;Não;Não;Sim;Não;Sim;Sim;;GOVERNO;7.6735277;16.341518
+TITO;Avate;Bahia;214;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não Votou;Não;Não;Não Votou;Não;Não;;MINORIA;16.455624;-7.3292894
+PAULO AZI;DEM;Bahia;215;Sim;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não Votou;Não Votou;Não Votou;Não;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Sim;;GOVERNO;-6.9876447;10.733603
+RONALDO CARLETTO;PP;Bahia;216;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;;GOVERNO;10.26082;0.75612235
+ZÉ NETO;PT;Bahia;217;Sim;Sim;Não Votou;Sim;Não Votou;Não Votou;Não;Não;Sim;Não Votou;Obstrução;Não;Não Votou;Sim;Não;Sim;Sim;;OPOSIÇÃO;-23.745583;-18.133018
+VALMIR ASSUNÇÃO;PT;Bahia;218;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Obstrução;Obstrução;Não;Não;Sim;Não;Sim;Sim;;OPOSIÇÃO;-20.525719;-20.932566
+WALDENOR PEREIRA;PT;Bahia;219;Não Votou;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Sim;Sim;Não;;OPOSIÇÃO;-8.696539;5.387798
+ULDURICO JUNIOR;PROS;Bahia;220;Sim;Não Votou;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Obstrução;Não Votou;Não Votou;Sim;Não Votou;Não;Sim;;MINORIA;14.110005;1.1756766
+AÉCIO NEVES;PSDB;Minas Gerais;221;Não Votou;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Não Votou;Não Votou;Não;Não Votou;Não Votou;Não;Não Votou;Não Votou;;GOVERNO;9.067326;4.979912
+ALÊ SILVA;PSL;Minas Gerais;222;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Sim;Não;Sim;Não;Não;Não;;GOVERNO;9.115186;-6.5061183
+ANDRÉ JANONES;Avate;Minas Gerais;223;Não Votou;Sim;Sim;Sim;Não Votou;Sim;Não;Não;Sim;Não;Não;Não Votou;Não;Sim;Não;Sim;Sim;;MINORIA;-20.744593;-18.611403
+ÁUREA CAROLINA;PSOL;Minas Gerais;224;Não Votou;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Obstrução;Obstrução;Não;Não;Sim;Obstrução;Não Votou;Não;;OPOSIÇÃO;-4.826279;-19.121384
+CABO JUNIO AMARAL;PSL;Minas Gerais;225;Sim;Sim;Sim;Não Votou;Sim;Sim;Sim;Não Votou;Sim;Não;Não;Não Votou;Não Votou;Não;Não;Não Votou;Não;;GOVERNO;19.803244;-8.486429
+CHARLLES EVANGELISTA;PSL;Minas Gerais;226;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não Votou;Não Votou;Sim;Não;Não;Não;;GOVERNO;8.6843605;-8.114872
+DELEGADO MARCELO FREITAS;PSL;Minas Gerais;227;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não Votou;Não Votou;Sim;Não;Não;Não;;GOVERNO;8.684548;-8.1158085
+DIEGO ANDRADE;PSD;Minas Gerais;228;Sim;Sim;Sim;Não Votou;Não Votou;Não Votou;Sim;Não;Não Votou;Não;Não;Não Votou;Não;Sim;Não Votou;Não Votou;Não Votou;;GOVERNO;-2.0646224;7.1071343
+DR. FREDERICO;Patriota;Minas Gerais;229;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não Votou;Não Votou;Não;Não;Sim;Não;Não;Não;;MINORIA;5.235564;-8.238127
+EDUARDO BARBOSA;PSDB;Minas Gerais;230;Sim;Sim;Sim;Não Votou;Sim;Sim;Não Votou;Não Votou;Não Votou;Não;Não Votou;Não;Não;Não Votou;Não;Não;Não;;GOVERNO;4.3778706;-12.483801
+DIMAS FABIANO;PP;Minas Gerais;231;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não Votou;Não;Sim;Não;Sim;Sim;;GOVERNO;13.221546;19.70361
+BILAC PINTO;DEM;Minas Gerais;232;Sim;Sim;Sim;Não Votou;Não Votou;Não Votou;Sim;Não;Sim;Não;Não;Não;Não Votou;Sim;Não;Sim;Sim;;GOVERNO;2.3223336;11.316853
+DOMINGOS SÁVIO;PSDB;Minas Gerais;233;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Não Votou;Sim;Não;Não;Não Votou;Não;Sim;Não;Sim;Sim;;GOVERNO;16.25878;19.848078
+EMIDINHO MADEIRA;PSB;Minas Gerais;234;Sim;Sim;Não Votou;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não;Sim;Sim;;OPOSIÇÃO;11.922261;18.10255
+MARCELO ARO;PP;Minas Gerais;236;Sim;Não Votou;Sim;Sim;Sim;Sim;Sim;Não;Não Votou;Não Votou;Não;Não Votou;Não;Não Votou;Não Votou;Sim;Sim;;GOVERNO;11.745442;24.227251
+MARGARIDA SALOMÃO;PT;Minas Gerais;237;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Não Votou;Obstrução;Não Votou;Não;Não;Sim;Não;Sim;Sim;;OPOSIÇÃO;7.504572;16.343973
+FÁBIO RAMALHO;MDB;Minas Gerais;238;Sim;Sim;Não Votou;Não Votou;Sim;Sim;Sim;Não;Sim;Não;Sim;Não Votou;Não Votou;Sim;Não Votou;Sim;Não Votou;;GOVERNO;-0.7245023;15.408694
+MÁRIO HERINGER;PDT;Minas Gerais;239;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;;MINORIA;-11.438663;-13.689993
+EUCLYDES PETTERSEN;PSC;Minas Gerais;240;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não Votou;Não;Sim;Não;Não Votou;Não;;GOVERNO;7.767944;-5.6000223
+FRANCO CARTAFINA;PP;Minas Gerais;241;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não;Sim;Sim;;GOVERNO;12.104303;17.112795
+EROS BIONDINI;PROS;Minas Gerais;242;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não Votou;Não;Não;Não Votou;Não Votou;Não Votou;;MINORIA;15.674108;-4.0863304
+LINCOLN PORTELA;PL;Minas Gerais;243;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Não;Não;Não Votou;Não;Sim;Não;Sim;Sim;;MINORIA;15.597651;19.154684
+FRED COSTA;Patriota;Minas Gerais;244;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não;Não;Não;;MINORIA;7.1175413;-9.435611
+MISAEL VARELLA;PSD;Minas Gerais;245;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não Votou;Não;Não;Sim;Não;Não;Não;;GOVERNO;6.3988185;-8.375474
+GILBERTO ABRAMO;PRB;Minas Gerais;246;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não Votou;Não Votou;Não;Não;Sim;Não;Sim;Não Votou;;GOVERNO;7.4870934;18.540598
+NEWTON CARDOSO JR;MDB;Minas Gerais;247;Não Votou;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não;Sim;Não Votou;Não;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;;GOVERNO;-4.55745;5.6238966
+GREYCE ELIAS;Avate;Minas Gerais;248;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não;Não Votou;Não Votou;Não Votou;Não;Não;;MINORIA;10.093183;-9.744739
+PATRUS ANANIAS;PT;Minas Gerais;249;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Obstrução;Obstrução;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;;OPOSIÇÃO;-10.184353;-14.73175
+JÚLIO DELGADO;PSB;Minas Gerais;250;Não Votou;Sim;Não Votou;Não Votou;Sim;Sim;Não;Não;Sim;Não;Obstrução;Não;Não;Não Votou;Não Votou;Sim;Sim;;OPOSIÇÃO;-15.957258;-21.825863
+LUIS TIBÉ;Avate;Minas Gerais;251;Não Votou;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não;Não Votou;Não Votou;Sim;Não Votou;;MINORIA;-9.954125;4.8893127
+MAURO LOPES;MDB;Minas Gerais;252;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não Votou;Não Votou;Não Votou;Sim;Não Votou;Não Votou;Não Votou;;GOVERNO;-9.367083;1.361494
+LEONARDO MONTEIRO;PT;Minas Gerais;253;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não Votou;Não Votou;Obstrução;Obstrução;Não Votou;Não;Sim;Não;Sim;Sim;;OPOSIÇÃO;-19.985966;-19.335205
+HERCÍLIO COELHO DINIZ;MDB;Minas Gerais;254;Sim;Sim;Não Votou;Não Votou;Não Votou;Sim;Sim;Não;Sim;Não;Não Votou;Não;Não;Sim;Não Votou;Sim;Sim;;GOVERNO;0.526822;12.613435
+IGOR TIMO;Podemos;Minas Gerais;255;Sim;Sim;Não Votou;Não Votou;Sim;Não Votou;Não;Não Votou;Sim;Não;Não;Não Votou;Não;Sim;Não Votou;Sim;Sim;;MINORIA;-19.411583;-17.623062
+LAFAYETTE DE ANDRADA;PRB;Minas Gerais;256;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não Votou;Não Votou;Não;Não;Sim;Não;Sim;Sim;;GOVERNO;6.3668594;18.882135
+LÉO MOTTA;PSL;Minas Gerais;257;Sim;Sim;Não Votou;Sim;Sim;Sim;Sim;Abstenção;Sim;Não;Não;Não Votou;Obstrução;Sim;Não;Não Votou;Não;;GOVERNO;7.5318074;-4.629788
+LUCAS GONZALEZ;NOVO;Minas Gerais;258;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não Votou;Não;Sim;Sim;Não;Não;Não;Não;;GOVERNO;19.005138;-13.345797
+PADRE JOÃO;PT;Minas Gerais;259;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Obstrução;Obstrução;Não;Não;Sim;Não Votou;Sim;Sim;;OPOSIÇÃO;-17.833862;-20.756449
+PAULO GUEDES;PT;Minas Gerais;260;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não Votou;Sim;Obstrução;Obstrução;Não;Não;Sim;Não;Sim;Sim;;OPOSIÇÃO;-21.309284;-21.210499
+PINHEIRINHO;PP;Minas Gerais;261;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não;Não;Não Votou;Não;Sim;Não;;GOVERNO;17.169945;8.355129
+ROGÉRIO CORREIA;PT;Minas Gerais;262;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não Votou;Sim;Obstrução;Obstrução;Não Votou;Não;Sim;Não Votou;Sim;Sim;;OPOSIÇÃO;-18.980585;-19.365408
+PAULO ABI-ACKEL;PSDB;Minas Gerais;263;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não Votou;Sim;Sim;;GOVERNO;3.282171;20.533417
+TIAGO MITRAUD;NOVO;Minas Gerais;264;Sim;Sim;Sim;Sim;Não;Não;Sim;Não;Não;Não;Não;Sim;Sim;Não;Não;Não;Não;;GOVERNO;17.944044;-16.62928
+VILSON DA FETAEMG;PSB;Minas Gerais;265;Sim;Sim;Não Votou;Sim;Sim;Sim;Não;Não Votou;Sim;Abstenção;Obstrução;Não;Não;Sim;Sim;Sim;Sim;;OPOSIÇÃO;-15.1003065;-22.737736
+ZÉ VITOR;PL;Minas Gerais;266;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não;Sim;Sim;;MINORIA;12.185922;16.143778
+STEFANO AGUIAR;PSD;Minas Gerais;267;Sim;Não Votou;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não;Sim;Sim;;GOVERNO;10.852476;15.140257
+RODRIGO DE CASTRO;PSDB;Minas Gerais;268;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não Votou;Não;Sim;Não;Sim;Sim;;GOVERNO;13.681346;20.631634
+ODAIR CUNHA;PT;Minas Gerais;269;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Não Votou;Não Votou;Não;Não;Sim;Não;Sim;Sim;;OPOSIÇÃO;-20.306444;-24.09747
+WELITON PRADO;PROS;Minas Gerais;270;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Não;Não Votou;Não;Não;Sim;Não;Sim;Sim;;MINORIA;-20.547443;-22.522003
+ZÉ SILVA;Solidariedade;Minas Gerais;271;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Não Votou;Não;Não;Não;Não;Sim;Não Votou;Sim;Sim;;MINORIA;15.572576;16.380167
+REGINALDO LOPES;PT;Minas Gerais;272;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não Votou;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não Votou;Sim;Sim;;OPOSIÇÃO;-18.202124;-25.043877
+SUBTENENTE GONZAGA;PDT;Minas Gerais;273;Sim;Sim;Não Votou;Sim;Não Votou;Não Votou;Não;Não;Sim;Não;Obstrução;Não Votou;Não Votou;Sim;Obstrução;Sim;Sim;;MINORIA;-23.728868;-17.978254
+EVAIR VIEIRA DE MELO;PP;Espírito Santo;274;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não Votou;Não;Sim;Não Votou;Sim;Sim;;GOVERNO;14.179326;22.048552
+AMARO NETO;PRB;Espírito Santo;275;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não Votou;Não;Não Votou;Não Votou;Não;Sim;Sim;;GOVERNO;9.417286;12.010996
+DA VITÓRIA;CIDADANIA;Espírito Santo;276;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não Votou;Não Votou;Não;Não;Sim;Não;Sim;Não Votou;;MINORIA;7.486751;18.540083
+DRA. SORAYA MANATO;PSL;Espírito Santo;277;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Não Votou;Sim;Não;Não;Não;Não;;GOVERNO;21.436201;-9.707877
+FELIPE RIGONI;PSB;Espírito Santo;278;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não Votou;Não;Não;Sim;Não;Não Votou;Não;;OPOSIÇÃO;14.142944;6.4632416
+HELDER SALOMÃO;PT;Espírito Santo;279;Sim;Sim;Sim;Não Votou;Não Votou;Sim;Não;Não;Sim;Não Votou;Obstrução;Não;Não Votou;Sim;Não;Sim;Sim;;OPOSIÇÃO;-23.02588;-19.163292
+LAURIETE;PL;Espírito Santo;281;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não;Sim;Sim;;MINORIA;12.719876;16.52058
+NORMA AYUB;DEM;Espírito Santo;282;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não Votou;Não Votou;Sim;Não Votou;Sim;Sim;;GOVERNO;14.946517;22.112722
+SERGIO VIDIGAL;PDT;Espírito Santo;283;Não Votou;Sim;Não Votou;Sim;Não Votou;Sim;Não;Não;Sim;Obstrução;Obstrução;Não;Não Votou;Sim;Não Votou;Não;Sim;;MINORIA;-13.626689;-17.504984
+ALEXANDRE SERFIOTIS;PSD;Rio de Janeiro;284;Não Votou;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;;GOVERNO;9.260344;0.7747432
+CARLOS JORDY;PSL;Rio de Janeiro;285;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Sim;Obstrução;Não;Não;Não;Não;;GOVERNO;17.086985;-9.092326
+ALTINEU CÔRTES;PL;Rio de Janeiro;286;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Não;Não Votou;Não;Não Votou;Sim;Não Votou;Não Votou;Sim;;MINORIA;12.163534;3.6806386
+ALESSANDRO MOLON;PSB;Rio de Janeiro;287;Sim;Sim;Não Votou;Sim;Sim;Sim;Não;Não;Sim;Obstrução;Obstrução;Não Votou;Não Votou;Sim;Sim;Não;Não;;OPOSIÇÃO;-7.359842;-17.202888
+CHIQUINHO BRAZÃO;Avate;Rio de Janeiro;288;Sim;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não Votou;Sim;Sim;;MINORIA;0.38809216;11.250671
+CHRIS TONIETTO;PSL;Rio de Janeiro;289;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Sim;Sim;Não;Não;Não;Não;;GOVERNO;19.971464;-12.432271
+AUREO RIBEIRO;Solidariedade;Rio de Janeiro;290;Sim;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Sim;Sim;;MINORIA;-6.9879537;10.7485695
+BENEDITA DA SILVA;PT;Rio de Janeiro;291;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Não Votou;Obstrução;Obstrução;Não;Não;Sim;Não Votou;Sim;Sim;;OPOSIÇÃO;-17.439402;-21.613243
+CHRISTINO AUREO;PP;Rio de Janeiro;292;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não;Não;Sim;;GOVERNO;16.7832;0.38223588
+CHICO D`ANGELO;PDT;Rio de Janeiro;293;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Não Votou;Obstrução;Não Votou;Não Votou;Não Votou;Não Votou;Obstrução;Não Votou;Sim;;MINORIA;-14.173297;-14.819731
+CLARISSA GAROTINHO;PROS;Rio de Janeiro;294;Sim;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não Votou;Não Votou;Não;Não;Não Votou;Não;Sim;Não;Não Votou;Sim;;MINORIA;-2.5390885;9.280115
+DANIEL SILVEIRA;PSL;Rio de Janeiro;295;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Sim;Obstrução;Não;Não;Não;Não;;GOVERNO;17.089245;-9.094723
+DANIELA DO WAGUINHO;MDB;Rio de Janeiro;296;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Não Votou;Não Votou;Não;Não Votou;Sim;Não;Sim;Sim;;GOVERNO;3.9078197;18.59343
+DELEGADO ANTÔNIO FURTADO;PSL;Rio de Janeiro;297;Sim;Sim;Não Votou;Sim;Sim;Não Votou;Sim;Não;Sim;Não;Não;Não Votou;Não;Abstenção;Não;Não;Abstenção;;GOVERNO;14.132866;-8.656285
+DR. LUIZ ANTONIO TEIXEIRA JR.;PP;Rio de Janeiro;298;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não;Não;Não;Sim;Não Votou;Não;Sim;;GOVERNO;-16.017958;1.6381401
+FELÍCIO LATERÇA;PSL;Rio de Janeiro;299;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não;Não Votou;Não Votou;Não Votou;Não;Não;Não;;GOVERNO;-9.263076;-2.1458745
+FLORDELIS;PSD;Rio de Janeiro;300;Sim;Sim;Não Votou;Sim;Sim;Sim;Sim;Não;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;;GOVERNO;6.7243285;2.8674083
+GELSON AZEVEDO;PL;Rio de Janeiro;301;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Não;Não;Não;Não;Sim;Não;Sim;Sim;;MINORIA;14.491254;15.309728
+GUTEMBERG REIS;MDB;Rio de Janeiro;302;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não Votou;Não;Não;Não;Não;Não Votou;Não;Sim;Sim;;GOVERNO;10.38827;16.553038
+HELIO LOPES;PSL;Rio de Janeiro;303;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Não;Não;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;;GOVERNO;11.912054;0.61008525
+GLAUBER BRAGA;PSOL;Rio de Janeiro;304;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Obstrução;Obstrução;Não;Não;Sim;Obstrução;Obstrução;Não;;OPOSIÇÃO;-4.176461;-18.203104
+JANDIRA FEGHALI;PCdoB;Rio de Janeiro;305;Sim;Sim;Não Votou;Não Votou;Sim;Sim;Não;Não Votou;Não Votou;Não Votou;Obstrução;Não Votou;Não;Sim;Não;Não Votou;Sim;;OPOSIÇÃO;-24.781624;-21.66782
+HUGO LEAL;PSD;Rio de Janeiro;306;Sim;Sim;Não Votou;Não Votou;Sim;Sim;Sim;Não;Sim;Não Votou;Não;Não;Não Votou;Sim;Não;Sim;Sim;;GOVERNO;0.71336204;18.281893
+JUNINHO DO PNEU;DEM;Rio de Janeiro;308;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Não;Não;Não;Não;Sim;Não;Sim;Não Votou;;GOVERNO;15.485075;12.875528
+LOURIVAL GOMES;PSL;Rio de Janeiro;309;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não Votou;Obstrução;Não;Não;Não;Não;;GOVERNO;17.320919;-7.880162
+LUIZ ANTÔNIO CORRÊA;S.Part.;Rio de Janeiro;310;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não Votou;Não Votou;Não Votou;Não;Sim;Não Votou;Sim;Sim;;MINORIA;6.051059;21.996075
+LUIZ LIMA;PSL;Rio de Janeiro;311;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não Votou;Sim;Não;Não;Não;Não;;GOVERNO;20.45424;-11.607949
+MAJOR FABIANA;PSL;Rio de Janeiro;312;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;;GOVERNO;7.61504;3.4518926
+MARCELO CALERO;CIDADANIA;Rio de Janeiro;313;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não Votou;Não;Sim;Não Votou;Não;Não Votou;;MINORIA;10.446771;-7.702621
+PEDRO PAULO;DEM;Rio de Janeiro;314;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não;Não;Sim;Não;Sim;Sim;;GOVERNO;-13.811191;8.055516
+MARCELO FREIXO;PSOL;Rio de Janeiro;315;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Obstrução;Obstrução;Não;Não;Sim;Obstrução;Obstrução;Não;;OPOSIÇÃO;-4.1771364;-18.203928
+MÁRCIO LABRE;PSL;Rio de Janeiro;316;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Não;Sim;Não;Não;Sim;Sim;Não;Não;Não;Não;;GOVERNO;20.075518;-13.593151
+OTONI DE PAULA;PSC;Rio de Janeiro;317;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Não;Não;Não;Não Votou;Art.;Não;Não;Não Votou;;GOVERNO;13.196609;-2.510769
+PAULO GANIME;NOVO;Rio de Janeiro;318;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não;Sim;Sim;Não;Não;Não;Não;;GOVERNO;16.891426;-16.940102
+PAULO RAMOS;PDT;Rio de Janeiro;319;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não Votou;Sim;Não Votou;Não Votou;Não;Não Votou;Não Votou;Obstrução;Obstrução;Sim;;MINORIA;-14.674719;-12.18398
+PROFESSOR JOZIEL;PSL;Rio de Janeiro;320;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Não;Não;Sim;Não;Não;Não;Não;Não;;GOVERNO;17.956837;-8.805381
+GURGEL;PSL;Rio de Janeiro;321;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não Votou;Obstrução;Não;Não;Não;Não;;GOVERNO;17.320704;-7.8782263
+RODRIGO MAIA;DEM;Rio de Janeiro;322;Não Votou;Art.;Sim;Art.;Art.;Art.;Sim;Art.;Sim;Não Votou;Não Votou;Art.;Não Votou;Não Votou;Art.;Art.;Não Votou;;GOVERNO;-5.631663;4.722664
+TALÍRIA PETRONE;PSOL;Rio de Janeiro;323;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Obstrução;Obstrução;Não;Não;Sim;Obstrução;Não Votou;Não;;OPOSIÇÃO;-10.645133;-0.2581771
+VINICIUS FARAH;MDB;Rio de Janeiro;324;Não Votou;Não Votou;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não Votou;Não Votou;Não Votou;Não;Sim;Não;Sim;Sim;;GOVERNO;8.000606;21.877966
+ROSANGELA GOMES;PRB;Rio de Janeiro;325;Sim;Não Votou;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não Votou;Não Votou;Não;Não Votou;Sim;Não;Sim;Sim;;GOVERNO;4.902641;17.55509
+WLADIMIR GAROTINHO;PSD;Rio de Janeiro;327;Sim;Sim;Não Votou;Não Votou;Sim;Sim;Sim;Não;Não Votou;Não;Não;Não;Não;Não;Sim;Não;Sim;;GOVERNO;6.288781;-1.0303866
+SORAYA SANTOS;PL;Rio de Janeiro;328;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Art.;Art.;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;;MINORIA;-8.598097;3.2627802
+SÓSTENES CAVALCANTE;DEM;Rio de Janeiro;329;Sim;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não;Não Votou;Não Votou;Não;Sim;Não;Sim;Sim;;GOVERNO;-14.180682;10.122622
+RENATA ABREU;Podemos;São Paulo;330;Sim;Não Votou;Não Votou;Não Votou;Sim;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não Votou;Não Votou;Sim;;MINORIA;-8.763344;7.9324975
+ALEX MANENTE;CIDADANIA;São Paulo;331;Sim;Sim;Sim;Não Votou;Não Votou;Sim;Sim;Não;Sim;Não Votou;Não Votou;Não;Não;Sim;Não;Não;Não Votou;;MINORIA;3.8523972;-8.706411
+ABOU ANNI;PSL;São Paulo;332;Sim;Sim;Não Votou;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Sim;Não;Não;Não;Não;Não;;GOVERNO;16.300266;-9.384083
+ADRIANA VENTURA;NOVO;São Paulo;333;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Sim;Sim;Não;Não Votou;Não;Não;;GOVERNO;19.130253;-11.965113
+ALEXANDRE LEITE;DEM;São Paulo;334;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não Votou;Não;Sim;Não;Sim;Sim;;GOVERNO;14.045932;20.350443
+BRUNA FURLAN;PSDB;São Paulo;335;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não Votou;Não Votou;Não;Sim;Não;;GOVERNO;-11.013114;3.105928
+ARLINDO CHINAGLIA;PT;São Paulo;336;Sim;Sim;Não Votou;Sim;Sim;Sim;Não;Não;Sim;Não Votou;Não Votou;Não;Não Votou;Sim;Não Votou;Sim;Sim;;OPOSIÇÃO;-18.662079;-25.296846
+ALENCAR SANTANA BRAGA;PT;São Paulo;337;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Obstrução;Obstrução;Não Votou;Não Votou;Sim;Não;Sim;Não Votou;;OPOSIÇÃO;-13.456921;5.1714144
+CARLOS SAMPAIO;PSDB;São Paulo;338;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não Votou;Não;Não;Sim;Não;Não Votou;Não Votou;;GOVERNO;13.418209;6.3100047
+ARNALDO JARDIM;CIDADANIA;São Paulo;339;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não Votou;Não;Não;Sim;Não Votou;;MINORIA;-11.17792;3.2394319
+ALEXANDRE FROTA;PSL;São Paulo;340;Sim;Não Votou;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não;Não Votou;Não Votou;Não;Sim;Sim;;GOVERNO;10.674463;13.575001
+ALEXANDRE PADILHA;PT;São Paulo;341;Sim;Sim;Não Votou;Sim;Sim;Sim;Não;Não;Sim;Obstrução;Não Votou;Não;Não;Sim;Não;Sim;Não Votou;;OPOSIÇÃO;-22.408953;-23.531597
+BALEIA ROSSI;MDB;São Paulo;342;Sim;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não;Não Votou;Não Votou;Não Votou;Não Votou;Não;Sim;Não Votou;Não Votou;Não Votou;;GOVERNO;-2.3150754;6.8675723
+ALEXIS FONTEYNE;NOVO;São Paulo;343;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não Votou;Não;Sim;Sim;Não;Não;Não;Não;;GOVERNO;19.005959;-13.347113
+GUILHERME DERRITE;PP;São Paulo;344;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não;Não;Não;;GOVERNO;7.0609174;-9.613153
+ELI CORRÊA FILHO;DEM;São Paulo;345;Sim;Sim;Não Votou;Não Votou;Sim;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não Votou;Sim;Não;Sim;Não Votou;;GOVERNO;-7.503815;7.7393384
+CAPITÃO AUGUSTO;PL;São Paulo;346;Não Votou;Sim;Não Votou;Sim;Sim;Sim;Sim;Não;Sim;Não;Não Votou;Não;Não;Sim;Não;Sim;Não;;MINORIA;15.419935;7.3468876
+CELSO RUSSOMANNO;PRB;São Paulo;347;Sim;Sim;Não Votou;Sim;Sim;Não Votou;Sim;Não Votou;Sim;Não Votou;Não Votou;Não Votou;Não;Sim;Não Votou;Não Votou;Não;;GOVERNO;3.9421787;-3.2951205
+GUILHERME MUSSI;PP;São Paulo;348;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não;Não Votou;Não;Não Votou;Não Votou;;GOVERNO;-9.9719715;3.2220697
+JEFFERSON CAMPOS;PSB;São Paulo;349;Sim;Não Votou;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não Votou;Não;Sim;Não Votou;Não Votou;Sim;;OPOSIÇÃO;14.032518;23.795467
+CARLA ZAMBELLI;PSL;São Paulo;350;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Sim;Não;Sim;Não Votou;Não Votou;Não;Não Votou;Não;Não Votou;Não Votou;Não;;GOVERNO;-2.8872645;2.1683848
+CEZINHA DE MADUREIRA;PSD;São Paulo;351;Sim;Sim;Não Votou;Não Votou;Sim;Sim;Sim;Não Votou;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Sim;;GOVERNO;3.7989795;3.9960463
+EDUARDO BOLSONARO;PSL;São Paulo;352;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Não;Não;Abstenção;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;;GOVERNO;11.91263;0.6135746
+EDUARDO CURY;PSDB;São Paulo;353;Sim;Sim;Sim;Não Votou;Sim;Não;Sim;Não Votou;Não;Não Votou;Não Votou;Sim;Não;Não;Não;Sim;Não;;GOVERNO;-10.708039;13.405984
+CORONEL TADEU;PSL;São Paulo;354;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Não;Sim;Não;Não;Não Votou;Não Votou;Não;Não;Não;Não;;GOVERNO;18.991766;-10.2790365
+FAUSTO PINATO;PP;São Paulo;355;Sim;Não Votou;Não Votou;Sim;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não;Não Votou;Sim;Sim;;GOVERNO;-7.1411133;14.050506
+DAVID SOARES;DEM;São Paulo;356;Sim;Sim;Não Votou;Sim;Não Votou;Sim;Sim;Não;Sim;Não;Não Votou;Não;Não;Sim;Não;Sim;Sim;;GOVERNO;1.6621547;13.618508
+ENRICO MISASI;PV;São Paulo;357;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Não;Não;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não;;MINORIA;12.564138;-5.6780744
+GENERAL PETERNELLI;PSL;São Paulo;358;Sim;Sim;Não Votou;Sim;Sim;Sim;Sim;Não;Sim;Não Votou;Não Votou;Sim;Obstrução;Não;Não;Não;Não;;GOVERNO;16.117632;-10.153402
+IVAN VALENTE;PSOL;São Paulo;359;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Obstrução;Obstrução;Não Votou;Não;Sim;Obstrução;Obstrução;Não;;OPOSIÇÃO;-3.3192673;-18.637058
+GILBERTO NASCIMENTO;PSC;São Paulo;360;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Não;Não;Não;Não Votou;Não Votou;Não Votou;Sim;Não;;GOVERNO;15.52184;3.7616334
+GENINHO ZULIANI;DEM;São Paulo;361;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não Votou;Sim;Sim;;GOVERNO;-10.25194;7.427137
+HERCULANO PASSOS;MDB;São Paulo;362;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não Votou;Não;Sim;Não;Não;Não;;GOVERNO;-7.88898;-1.9022692
+GUIGA PEIXOTO;PSL;São Paulo;363;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Sim;Sim;Não;Não;Não;Não;;GOVERNO;20.101149;-12.76286
+JOICE HASSELMANN;PSL;São Paulo;364;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não Votou;Sim;Não Votou;Não Votou;Não Votou;Não;Não Votou;Não Votou;Não Votou;Não;;GOVERNO;-5.188976;3.2786067
+JÚNIOR BOZZELLA;PSL;São Paulo;365;Não Votou;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não Votou;Não Votou;Sim;Não Votou;Não Votou;Não;Não;Não;;GOVERNO;16.11217;-12.225281
+KIM KATAGUIRI;DEM;São Paulo;366;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não Votou;Não Votou;Não;Não;Não;Não;Sim;;GOVERNO;16.145935;-3.1394734
+LUIZ CARLOS MOTTA;PL;São Paulo;367;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não;Sim;Não;;MINORIA;16.552229;8.780806
+LUIZ PHILIPPE DE ORLEANS E BRAG;PSL;São Paulo;368;Sim;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não;Sim;Não;Não;Não Votou;Não Votou;Não;Não;Não;Não;;GOVERNO;16.51615;-14.866237
+MARCO BERTAIOLLI;PSD;São Paulo;369;Sim;Sim;Sim;Não Votou;Não Votou;Sim;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não;Sim;Não;;GOVERNO;18.00083;8.803417
+MARCIO ALVINO;PL;São Paulo;370;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não Votou;Não;Sim;Não;Sim;Não;;MINORIA;17.190859;9.537585
+LUIZA ERUNDINA;PSOL;São Paulo;371;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Obstrução;Obstrução;Não;Não;Sim;Não Votou;Não Votou;Não;;OPOSIÇÃO;-5.942257;-18.453789
+PAULO PEREIRA DA SILVA;Solidariedade;São Paulo;372;Sim;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Sim;Sim;;MINORIA;-4.9460545;9.905265
+MARCOS PEREIRA;PRB;São Paulo;373;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;;GOVERNO;-9.163612;3.2690074
+MARIA ROSAS;PRB;São Paulo;374;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não Votou;Não;Sim;Não;Sim;Sim;;GOVERNO;14.028299;19.978022
+MILTON VIEIRA;PRB;São Paulo;375;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não Votou;Não Votou;Não;Não Votou;Sim;Não;Não Votou;Sim;;GOVERNO;4.5081325;16.833235
+PAULO TEIXEIRA;PT;São Paulo;376;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não;Sim;Não Votou;Sim;Não Votou;;OPOSIÇÃO;-16.832478;-24.487646
+POLICIAL KATIA SASTRE;PL;São Paulo;377;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não;Sim;Não;Sim;Não;Não;Não;;MINORIA;-8.307241;-2.701468
+MIGUEL LOMBARDI;PL;São Paulo;378;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não;Sim;Sim;;MINORIA;12.000094;16.240698
+PR. MARCO FELICIANO;Podemos;São Paulo;379;Sim;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não;Sim;Não Votou;Não;Não;Não;Sim;Não;Não;Não;;MINORIA;3.8621502;-10.38149
+PAULO FREIRE COSTA;PL;São Paulo;380;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não;Não;Não;Sim;Não Votou;Sim;Sim;;MINORIA;-15.369909;7.9491158
+LUIZ FLÁVIO GOMES;PSB;São Paulo;381;Sim;Não Votou;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Obstrução;Obstrução;Não Votou;Não;Sim;Sim;Sim;Não;;OPOSIÇÃO;17.276598;6.1002827
+NILTO TATTO;PT;São Paulo;382;Sim;Não Votou;Sim;Sim;Sim;Sim;Não;Não;Não Votou;Não Votou;Obstrução;Não Votou;Não;Sim;Não;Sim;Sim;;OPOSIÇÃO;-22.741358;-22.134466
+RICARDO IZAR;PP;São Paulo;383;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não;Não;Não Votou;Não Votou;Não;Sim;Sim;;GOVERNO;-16.077055;5.643929
+RODRIGO AGOSTINHO;PSB;São Paulo;384;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Não;Não;Não;Não;Sim;Sim;Sim;Não;;OPOSIÇÃO;-9.53483;-20.188498
+ROBERTO DE LUCENA;Podemos;São Paulo;385;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Sim;;MINORIA;-14.166567;0.90621674
+ORLANDO SILVA;PCdoB;São Paulo;386;Sim;Sim;Sim;Não Votou;Sim;Sim;Sim;Não;Não Votou;Obstrução;Não Votou;Não;Não Votou;Sim;Não;Sim;Sim;;OPOSIÇÃO;7.134844;15.359054
+ROBERTO ALVES;PRB;São Paulo;387;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Obstrução;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;;GOVERNO;10.2645445;0.75686437
+ROSANA VALLE;PSB;São Paulo;388;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Não;Não;Não;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;;OPOSIÇÃO;-10.158778;-15.492561
+SAMUEL MOREIRA;PSDB;São Paulo;389;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não Votou;Não;Não;Sim;Não Votou;Não Votou;Não Votou;;GOVERNO;13.0238905;6.2297225
+RUI FALCÃO;PT;São Paulo;390;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não Votou;Sim;Obstrução;Não Votou;Não;Não;Sim;Não;Sim;Sim;;OPOSIÇÃO;-21.183836;-22.522612
+SÂMIA BOMFIM;PSOL;São Paulo;391;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Não Votou;Obstrução;Não Votou;Não;Sim;Obstrução;Obstrução;Não;;OPOSIÇÃO;-2.8422704;-18.275187
+TIRIRICA;PL;São Paulo;392;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não;Sim;Sim;;MINORIA;11.8306;16.654505
+TABATA AMARAL;PDT;São Paulo;393;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não Votou;Não;Não;Não Votou;Não Votou;Não Votou;Não;;MINORIA;-10.459677;1.0055945
+VANDERLEI MACRIS;PSDB;São Paulo;394;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não Votou;Não;Não;Não Votou;Sim;Não Votou;Não Votou;Não;;GOVERNO;3.2482228;-6.5348544
+VINICIUS POIT;NOVO;São Paulo;395;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Sim;Sim;Não;Não;Não;Não;;GOVERNO;19.731806;-12.592824
+VICENTINHO;PT;São Paulo;396;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não Votou;Sim;Obstrução;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;;OPOSIÇÃO;-10.238477;-13.518786
+VINICIUS CARVALHO;PRB;São Paulo;397;Sim;Não Votou;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não Votou;Não Votou;Não;Sim;Não Votou;Sim;Sim;;GOVERNO;13.295355;23.920944
+CARLOS ZARATTINI;PT;São Paulo;398;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Obstrução;Não Votou;Não;Não;Sim;Não Votou;Sim;Sim;;OPOSIÇÃO;-18.439363;-22.089684
+VITOR LIPPI;PSDB;São Paulo;399;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não;Não Votou;Sim;Não;Sim;Sim;;GOVERNO;11.754541;14.63413
+JUAREZ COSTA;MDB;Mato Grosso;401;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Não;Não;Não;Não;Sim;Não;Sim;Sim;;GOVERNO;14.492834;15.310162
+DR. LEONARDO;Solidariedade;Mato Grosso;402;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não Votou;Sim;Sim;;MINORIA;14.316688;17.091154
+EMANUEL PINHEIRO NETO;PTB;Mato Grosso;403;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não;Sim;Sim;;GOVERNO;11.810845;17.013771
+JOSÉ MEDEIROS;Podemos;Mato Grosso;404;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não Votou;Não;Não Votou;Não;Não Votou;Não;Não;;MINORIA;-7.57587;1.0679878
+NELSON BARBUDO;PSL;Mato Grosso;405;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não;Não Votou;Não Votou;Não Votou;Não;Não;Não;;GOVERNO;-9.26421;-2.1454966
+NERI GELLER;PP;Mato Grosso;406;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não;Não Votou;Não;Sim;Não Votou;Sim;Sim;;GOVERNO;-14.871595;7.397291
+ERIKA KOKAY;PT;Distrito Federal;407;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não Votou;Sim;Não Votou;Obstrução;Não;Não Votou;Sim;Não;Sim;Não Votou;;OPOSIÇÃO;-22.778152;-20.951515
+PROFESSORA ROSA NEIDE;PT;Mato Grosso;408;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Obstrução;Obstrução;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;;OPOSIÇÃO;-10.185196;-14.732507
+BIA KICIS;PSL;Distrito Federal;409;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Abstenção;Sim;Não;Não;Não Votou;Sim;Não;Não Votou;Não;Não;;GOVERNO;21.453173;-10.386779
+CELINA LEÃO;PP;Distrito Federal;410;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Não Votou;Não;Não;Não;Sim;Não;Não;Não;;GOVERNO;5.504488;-9.298962
+FLÁVIA ARRUDA;PL;Distrito Federal;411;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não Votou;Não;Sim;Não;Sim;Sim;;MINORIA;13.815241;19.650589
+JULIO CESAR RIBEIRO;PRB;Distrito Federal;412;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Não;Não Votou;Não Votou;Não;Sim;Não;Sim;Sim;;GOVERNO;16.244576;18.77478
+PAULA BELMONTE;CIDADANIA;Distrito Federal;414;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não Votou;Não Votou;Sim;Não Votou;Não Votou;Não Votou;;MINORIA;10.830853;1.6773676
+PROFESSOR ISRAEL BATISTA;PV;Distrito Federal;415;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Não;Não;Não;Não;Sim;Não;Não;Não;;MINORIA;-4.176881;-18.203077
+ADRIANO DO BALDY;PP;Goiás;416;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não Votou;Não;Sim;Não;Sim;Sim;;GOVERNO;13.00625;20.073027
+CÉLIO SILVEIRA;PSDB;Goiás;417;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não Votou;Não Votou;Não;Sim;Não;Não;Não;;GOVERNO;-7.971083;-2.3942828
+JOÃO CAMPOS;PRB;Goiás;418;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não;Não Votou;Não;Sim;Sim;;GOVERNO;-13.033351;8.03734
+ALCIDES RODRIGUES;Patriota;Goiás;419;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não;Sim;Sim;Não;Não;Não;Não;;MINORIA;16.89079;-16.940105
+DR. ZACHARIAS CALIL;DEM;Goiás;420;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não;Não;Não Votou;Sim;Não;Sim;Sim;;GOVERNO;-15.206738;5.53561
+DELEGADO WALDIR;PSL;Goiás;421;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não;Não;Não Votou;;GOVERNO;-7.973238;1.9923546
+FLÁVIA MORAIS;PDT;Goiás;422;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Obstrução;Não;Não Votou;Sim;Obstrução;Não Votou;Sim;;MINORIA;-15.553918;3.9823716
+ELIAS VAZ;PSB;Goiás;423;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não Votou;Não;Obstrução;Obstrução;Não;Não Votou;Sim;Sim;Sim;Não;;OPOSIÇÃO;-9.789523;-21.560541
+FRANCISCO JR.;PSD;Goiás;424;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não;Não Votou;Sim;Não;Não;Não;;GOVERNO;8.118904;-9.222425
+RUBENS OTONI;PT;Goiás;425;Não Votou;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Não Votou;Não Votou;Não Votou;Não;Sim;Não;Sim;Não Votou;;OPOSIÇÃO;-21.68352;-24.994453
+GLAUSTIN FOKUS;PSC;Goiás;426;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não;Não;Não;Não;Não Votou;Sim;Não;;GOVERNO;-11.275992;1.2436182
+JOSE MARIO SCHREINER;DEM;Goiás;427;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não;Não Votou;Não;Sim;Não;Sim;Sim;;GOVERNO;-14.4791355;6.797818
+JOSÉ NELTO;Podemos;Goiás;428;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não Votou;Não Votou;Não Votou;Sim;Não Votou;Não Votou;Não;;MINORIA;-9.245787;0.6681099
+MAJOR VITOR HUGO;PSL;Goiás;429;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não Votou;Não Votou;Sim;Não Votou;Não;Não;;GOVERNO;-8.272093;-1.1814849
+LUCAS VERGILIO;Solidariedade;Goiás;430;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não;Não Votou;Sim;Não;Não;Não;;MINORIA;-7.2123475;-0.96721935
+MAGDA MOFATTO;PL;Goiás;431;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não;Não Votou;Não Votou;Sim;Não;Não;Sim;;MINORIA;-15.267376;2.2778618
+PROFESSOR ALCIDES;PP;Goiás;432;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não;Não;Não;Sim;Não;Sim;Sim;;GOVERNO;-15.226846;6.620636
+BETO PEREIRA;PSDB;Mato Grosso do Sul;433;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não Votou;Não;Não Votou;Não Votou;Não;Sim;Sim;;GOVERNO;-15.975449;5.410279
+DAGOBERTO NOGUEIRA;PDT;Mato Grosso do Sul;434;Sim;Sim;Sim;Sim;Não Votou;Não Votou;Não;Não;Sim;Obstrução;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;;MINORIA;-10.596938;-12.681373
+DR. LUIZ OVANDO;PSL;Mato Grosso do Sul;435;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Sim;Obstrução;Sim;Não;Não;Não;;GOVERNO;9.115343;-6.5071273
+FÁBIO TRAD;PSD;Mato Grosso do Sul;436;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não;Não;Sim;;GOVERNO;16.783508;0.38216296
+VANDER LOUBET;PT;Mato Grosso do Sul;438;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Obstrução;Não Votou;Não Votou;Não Votou;Não Votou;Não;Sim;Sim;;OPOSIÇÃO;-15.142457;-16.064001
+LOESTER TRUTIS;PSL;Mato Grosso do Sul;439;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Não Votou;Não Votou;Sim;Não Votou;Não Votou;Não;Não;Não;;GOVERNO;16.091848;-12.132753
+ROSE MODESTO;PSDB;Mato Grosso do Sul;440;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não;Não;Não;;GOVERNO;7.0660024;-9.607194
+ALIEL MACHADO;PSB;Paraná;441;Sim;Sim;Não Votou;Sim;Não Votou;Sim;Não Votou;Não;Sim;Não Votou;Obstrução;Não;Não Votou;Sim;Não Votou;Não Votou;Não;;OPOSIÇÃO;2.6248035;-6.755751
+CHRISTIANE DE SOUZA YARED;PL;Paraná;442;Sim;Sim;Não Votou;Sim;Sim;Sim;Sim;Não;Sim;Não Votou;Não Votou;Não Votou;Não;Sim;Não;Não;Sim;;MINORIA;4.125394;15.1843605
+ALINE SLEUTJES;PSL;Paraná;443;Sim;Abstenção;Não Votou;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não Votou;Sim;Não;Não;Não;Não;;GOVERNO;21.280107;-12.316608
+AROLDO MARTINS;PRB;Paraná;444;Sim;Sim;Sim;Sim;Sim;Abstenção;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não;Sim;Sim;;GOVERNO;12.869399;15.338103
+BOCA ABERTA;PROS;Paraná;445;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não Votou;Sim;Sim;Sim;Não;Não;Sim;Não Votou;Não;Não;;MINORIA;-4.930677;-15.651053
+FELIPE FRANCISCHINI;PSL;Paraná;446;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Sim;Obstrução;Não;Não Votou;Não Votou;Não Votou;;GOVERNO;15.759194;-4.4382734
+DIEGO GARCIA;Podemos;Paraná;447;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Sim;Não;Sim;Não;Não;Não;;MINORIA;9.115455;-6.506761
+HERMES PARCIANELLO;MDB;Paraná;448;Não Votou;Não Votou;Sim;Sim;Não Votou;Não Votou;Sim;Não;Sim;Não;Não Votou;Não;Não Votou;Não Votou;Não Votou;Não Votou;Sim;;GOVERNO;0.6369056;4.4139123
+ENIO VERRI;PT;Paraná;449;Não Votou;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Obstrução;Obstrução;Não;Não;Sim;Não Votou;Sim;Não Votou;;OPOSIÇÃO;-16.466097;-20.775208
+FILIPE BARROS;PSL;Paraná;450;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não Votou;Não Votou;Não;Sim;Não;Não;;GOVERNO;15.1420555;-6.8838396
+GLEISI HOFFMANN;PT;Paraná;451;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Obstrução;Não Votou;Não Votou;Não Votou;Não Votou;Não;Sim;Não Votou;;OPOSIÇÃO;-12.597009;4.4983354
+GUSTAVO FRUET;PDT;Paraná;452;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Sim;;MINORIA;-13.424994;-13.111802
+LEANDRE;PV;Paraná;453;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não;Não Votou;Não Votou;Sim;Não Votou;Não;Não;;MINORIA;-8.767792;-1.2533388
+LUISA CANZIANI;PTB;Paraná;454;Sim;Sim;Sim;Sim;Não Votou;Sim;Sim;Não;Não Votou;Não Votou;Não;Não;Não;Não Votou;Não Votou;Não;Não;;GOVERNO;9.661681;-11.227332
+VERMELHO;PSD;Paraná;455;Não Votou;Sim;Não Votou;Sim;Sim;Sim;Sim;Não Votou;Sim;Não;Não;Não;Não;Não Votou;Não;Não;Sim;;GOVERNO;16.469875;-0.63487947
+LUCIANO DUCCI;PSB;Paraná;457;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Não;Não Votou;Não;Não Votou;Sim;Sim;Sim;Não;;OPOSIÇÃO;-10.044247;-20.305864
+PAULO EDUARDO MARTINS;PSC;Paraná;458;Sim;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não;Sim;Não;Não;Não Votou;Sim;Não;Não Votou;Não;Não;;GOVERNO;16.521786;-15.1723585
+LUIZ NISHIMORI;PL;Paraná;459;Sim;Sim;Não Votou;Não Votou;Não Votou;Sim;Sim;Não;Não Votou;Não;Não;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;;MINORIA;5.494704;0.36459738
+RUBENS BUENO;CIDADANIA;Paraná;460;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não Votou;Não;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;;MINORIA;8.9563265;1.9684563
+PEDRO LUPION;DEM;Paraná;461;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Não Votou;Não Votou;Não;Não;Sim;Não Votou;Sim;Não;;GOVERNO;13.214224;9.529877
+RICARDO BARROS;PP;Paraná;462;Sim;Sim;Sim;Não Votou;Sim;Sim;Sim;Não;Sim;Não Votou;Não Votou;Não Votou;Não;Sim;Não;Sim;Sim;;GOVERNO;6.6341662;20.90443
+LUIZÃO GOULART;PRB;Paraná;463;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não;Sim;Não;;GOVERNO;16.552177;8.780226
+SARGENTO FAHUR;PSD;Paraná;464;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não;Não;Não;;GOVERNO;7.1183753;-9.43808
+GIACOBO;PL;Paraná;466;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não Votou;Sim;Não Votou;;MINORIA;-8.470823;6.217006
+SERGIO SOUZA;MDB;Paraná;467;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não Votou;Não Votou;Não;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;;GOVERNO;8.328332;3.5738819
+ZECA DIRCEU;PT;Paraná;468;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não;Não;Não Votou;Não Votou;Não Votou;Não Votou;Não;Sim;Não Votou;Sim;Não Votou;;OPOSIÇÃO;-11.076798;6.0407934
+SCHIAVINATO;PP;Paraná;469;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não Votou;Sim;Sim;;GOVERNO;14.315571;17.088219
+TONINHO WANDSCHEER;PROS;Paraná;470;Sim;Sim;Sim;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não;Não;Sim;;MINORIA;-18.528435;1.2686304
+ANGELA AMIN;PP;Santa Catarina;471;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não Votou;Não Votou;Não;Não;Sim;Não;Não;Não;;GOVERNO;5.236417;-8.237957
+CELSO MALDANER;MDB;Santa Catarina;472;Sim;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não Votou;Não;Não;Sim;Não;;GOVERNO;-11.4014635;2.8952594
+CARLOS CHIODINI;MDB;Santa Catarina;473;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Não Votou;Não;Não;Não Votou;Não;Sim;Não;Sim;Não;;GOVERNO;17.015306;10.727434
+CAROLINE DE TONI;PSL;Santa Catarina;474;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Sim;Sim;Não;Não Votou;Não;Não;;GOVERNO;19.131224;-11.965589
+CORONEL ARMANDO;PSL;Santa Catarina;475;Sim;Sim;Sim;Não Votou;Sim;Sim;Sim;Não Votou;Sim;Não;Não;Sim;Não;Não;Não;Não;Não;;GOVERNO;18.319958;-8.75096
+DANIEL FREITAS;PSL;Santa Catarina;476;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Sim;Não Votou;Não;Não Votou;Não;Não;;GOVERNO;18.31464;-11.251996
+CARMEN ZANOTTO;CIDADANIA;Santa Catarina;477;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não;Não Votou;Sim;Não Votou;Não;Não;;MINORIA;9.286553;-9.563161
+DARCI DE MATOS;PSD;Santa Catarina;478;Sim;Sim;Sim;Não Votou;Sim;Não Votou;Sim;Não;Não Votou;Não;Não;Não;Não;Sim;Não;Não;Não;;GOVERNO;5.2958136;-11.564368
+FABIO SCHIOCHET;PSL;Santa Catarina;479;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Não Votou;Não Votou;Não Votou;Obstrução;Não;Não;Não;Não;;GOVERNO;19.101274;-7.0752172
+GILSON MARQUES;NOVO;Santa Catarina;480;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não Votou;Não Votou;Sim;Sim;Não;Não;Não;Não;;GOVERNO;18.255096;-13.152038
+PEDRO UCZAI;PT;Santa Catarina;481;Sim;Sim;Sim;Não Votou;Não;Não;Não;Não;Não Votou;Obstrução;Não Votou;Não;Não;Sim;Não Votou;Sim;Sim;;OPOSIÇÃO;-20.058598;-14.679218
+GEOVANIA DE SÁ;PSDB;Santa Catarina;482;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não Votou;Não;Art.;Art.;Não;Sim;Art.;;GOVERNO;9.575031;11.789854
+ROGÉRIO PENINHA MENDONÇA;MDB;Santa Catarina;483;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não Votou;Não Votou;Não;Não Votou;Não;Não;Não;Não;;GOVERNO;21.626694;-7.7364154
+HÉLIO COSTA;PRB;Santa Catarina;484;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não Votou;Não Votou;Não Votou;Não;Sim;Não;Sim;Sim;;GOVERNO;7.213898;21.353802
+RICARDO GUIDI;PSD;Santa Catarina;485;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não;Sim;Sim;;GOVERNO;12.683413;16.994663
+ALCEU MOREIRA;MDB;Rio Grande do Sul;486;Não Votou;Sim;Não Votou;Sim;Sim;Não Votou;Sim;Não Votou;Não Votou;Não;Não Votou;Não;Não;Sim;Não Votou;Não Votou;Não;;GOVERNO;3.7166197;-3.2899587
+AFONSO HAMM;PP;Rio Grande do Sul;487;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não;Sim;Não;Sim;Sim;;GOVERNO;6.3349576;16.900679
+RODRIGO COELHO;PSB;Santa Catarina;488;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não;Sim;Não;;OPOSIÇÃO;16.552958;8.781128
+BIBO NUNES;PSL;Rio Grande do Sul;489;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Não Votou;Não;Não Votou;Obstrução;Não;Não;Não;Não;;GOVERNO;18.831572;-7.338254
+AFONSO MOTTA;PDT;Rio Grande do Sul;490;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não Votou;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Obstrução;Obstrução;Sim;;MINORIA;-14.75035;-12.583403
+DANIEL TRZECIAK;PSDB;Rio Grande do Sul;491;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não;Não;Sim;Não Votou;Não;Não;;GOVERNO;8.61644;-9.861842
+CARLOS GOMES;PRB;Rio Grande do Sul;492;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Não Votou;Não Votou;Não;Não;Sim;Não Votou;Sim;Sim;;GOVERNO;4.315365;20.60526
+GIOVANI FELTES;MDB;Rio Grande do Sul;494;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não Votou;Não;Não Votou;Não;Sim;Não Votou;Sim;Sim;;GOVERNO;10.904273;23.106037
+DANRLEI DE DEUS HINTERHOLZ;PSD;Rio Grande do Sul;495;Sim;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não Votou;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não;Não;Não;;GOVERNO;-6.033073;-2.5498114
+FERNANDA MELCHIONNA;PSOL;Rio Grande do Sul;496;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Não Votou;Não Votou;Não;Não;Sim;Não Votou;Obstrução;Não;;OPOSIÇÃO;-4.9118376;-16.36056
+HENRIQUE FONTANA;PT;Rio Grande do Sul;498;Sim;Sim;Sim;Não Votou;Não Votou;Não Votou;Não;Não;Sim;Obstrução;Obstrução;Não;Não;Sim;Não;Não Votou;Sim;;OPOSIÇÃO;-22.101461;-17.724012
+BOHN GASS;PT;Rio Grande do Sul;499;Não Votou;Sim;Não Votou;Não Votou;Sim;Sim;Não;Não Votou;Não Votou;Não Votou;Obstrução;Não;Não;Sim;Não Votou;Sim;Sim;;OPOSIÇÃO;-15.423418;-23.387556
+LIZIANE BAYER;PSB;Rio Grande do Sul;500;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Obstrução;Não;Não;Não;Sim;Não Votou;Sim;Sim;;OPOSIÇÃO;-17.832497;-20.757784
+LUCAS REDECKER;PSDB;Rio Grande do Sul;501;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não Votou;Não Votou;Não Votou;Não;Não;Sim;Não;Sim;Não;;GOVERNO;12.4868355;8.941053
+GIOVANI CHERINI;PL;Rio Grande do Sul;502;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Não Votou;Não Votou;Não;Não;Sim;Não Votou;Sim;Sim;;MINORIA;4.3154106;20.605717
+MARCEL VAN HATTEM;NOVO;Rio Grande do Sul;503;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Sim;Sim;Não;Não;Não;Não;;GOVERNO;19.756002;-12.749279
+HEITOR SCHUCH;PSB;Rio Grande do Sul;504;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Não Votou;Não Votou;Não Votou;Não;Não;Sim;Não Votou;Sim;Sim;;OPOSIÇÃO;-17.447514;-23.897308
+JERÔNIMO GOERGEN;PP;Rio Grande do Sul;505;Sim;Não Votou;Sim;Sim;Não Votou;Não Votou;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não;Não Votou;Sim;Não;Não Votou;Sim;;GOVERNO;-18.707201;1.7810088
+MARCELO MORAES;PTB;Rio Grande do Sul;506;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;;GOVERNO;10.141923;-0.6455575
+MARCON;PT;Rio Grande do Sul;507;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Não;Sim;Não Votou;Não;Não;Não;Sim;Não Votou;Sim;Sim;;OPOSIÇÃO;-16.641956;-19.440552
+MARIA DO ROSÁRIO;PT;Rio Grande do Sul;508;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Não Votou;Obstrução;Obstrução;Não;Não;Sim;Não Votou;Sim;Sim;;OPOSIÇÃO;-17.439997;-21.614082
+MARLON SANTOS;PDT;Rio Grande do Sul;509;Sim;Sim;Sim;Sim;Sim;Não Votou;Não;Não;Sim;Não Votou;Não Votou;Não;Não Votou;Não Votou;Não Votou;Obstrução;Sim;;MINORIA;-13.194641;-12.20983
+MAURÍCIO DZIEDRICKI;PTB;Rio Grande do Sul;511;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não Votou;Não Votou;Não;Não;Sim;Não;Sim;Sim;;GOVERNO;6.366755;18.885391
+NEREU CRISPIM;PSL;Rio Grande do Sul;512;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;;GOVERNO;10.510525;0.44693276
+PAULO PIMENTA;PT;Rio Grande do Sul;513;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não Votou;Sim;Não Votou;;OPOSIÇÃO;-9.333038;6.8724346
+PEDRO WESTPHALEN;PP;Rio Grande do Sul;514;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não Votou;Não;Sim;Não Votou;Não;Não;;GOVERNO;9.895116;-7.923818
+MÁRCIO BIOLCHI;MDB;Rio Grande do Sul;515;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Não;Não;Não Votou;Não;Sim;Não;Sim;Sim;;GOVERNO;15.598993;19.15882
+POMPEO DE MATTOS;PDT;Rio Grande do Sul;516;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Não Votou;Não Votou;Não;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;;MINORIA;-11.762686;-13.567501
+SANDERSON;PSL;Rio Grande do Sul;517;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não Votou;Não Votou;Não;Não;Não;Não;;GOVERNO;19.122534;-9.885816
+JORGE BRAZ;PRB;Rio de Janeiro;518;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não;Não;Não Votou;Não;Sim;Sim;;GOVERNO;10.9210615;16.377344
+DAVID MIRANDA;PSOL;Rio de Janeiro;519;Sim;Sim;Sim;Sim;Não Votou;Sim;Não;Não;Sim;Obstrução;Obstrução;Não Votou;Não;Sim;Obstrução;Não Votou;Não;;OPOSIÇÃO;-3.5985172;-19.524807
+LUIS MIRANDA;DEM;Distrito Federal;525;Sim;Não Votou;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Não;Não Votou;Sim;Não;Sim;Sim;;GOVERNO;10.693059;14.059045
+MARCELO BRUM;PSL;Rio Grande do Sul;526;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Sim;Não;Não;Sim;Obstrução;Não;Não;Não;Não;;GOVERNO;17.090794;-9.096582
+EVANDRO ROMAN;PSD;Paraná;527;Sim;Sim;Não Votou;Sim;Sim;Sim;Sim;Não;Não Votou;Não;Não;Não;Não;Sim;Não;Não;Não;;GOVERNO;6.4117928;-10.926713
+REINHOLD STEPHANES JUNIOR;PSD;Paraná;528;Sim;Sim;Sim;Não Votou;Sim;Sim;Sim;Não;Sim;Não;Não;Não Votou;Não;Não;Não Votou;Não;Não;;GOVERNO;16.375639;-7.107006
+DARCÍSIO PERONDI;MDB;Rio Grande do Sul;529;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Não;Não;Não;Sim;Não;Não Votou;Não;Não;;GOVERNO;21.930807;-10.086219
+TED CONTI;PSB;Espírito Santo;531;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Obstrução;Obstrução;Não;Não;Sim;Sim;Não;Não;;OPOSIÇÃO;-6.701219;-17.658134
+BIA CAVASSA;PSDB;Mato Grosso do Sul;532;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Não;Não;Não;Não;Sim;Não;Sim;Não;;GOVERNO;16.342964;9.858563
+ENÉIAS REIS;PSL;Minas Gerais;533;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Não Votou;Não;Não Votou;Não Votou;Sim;Não Votou;Não;Não;;GOVERNO;11.6162615;-6.1313167
+SANTINI;PTB;Rio Grande do Sul;534;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Não;Não;Não Votou;Não Votou;Sim;Não Votou;Não Votou;Sim;;GOVERNO;12.21983;2.617107
+VALTENIR PEREIRA;MDB;Mato Grosso;536;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não Votou;Sim;Não;Não;Não Votou;Não Votou;Sim;Não Votou;Não Votou;Não Votou;;GOVERNO;11.9917145;1.8393756
+JOSEILDO RAMOS;PT;Bahia;537;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não;Sim;Obstrução;Obstrução;Não;Não;Sim;Não;Sim;Sim;;OPOSIÇÃO;-20.527458;-20.933212
+PAULO MAGALHÃES;PSD;Bahia;538;Sim;Sim;Não Votou;Não Votou;Sim;Sim;Sim;Não;Sim;Não Votou;Não;Não Votou;Não Votou;Sim;Não;Sim;Sim;;GOVERNO;0.49724013;18.291443
+GASTÃO VIEIRA;PROS;Maranhão;539;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Não;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não Votou;Sim;Não;;MINORIA;11.446987;8.43393
+ANÍBAL GOMES;DEM;Ceará;541;Sim;Sim;Sim;Sim;Não Votou;Não Votou;Não;Não;Sim;Não Votou;Não Votou;Não Votou;Não;Sim;Não Votou;Não Votou;Sim;;GOVERNO;-17.506008;-15.77687
+PAES LANDIM;PTB;Piauí;542;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Não;Sim;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Não Votou;Sim;Sim;;GOVERNO;-5.5497303;9.059822
