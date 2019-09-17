@@ -1,9 +1,10 @@
 # Projeto Final
 Projeto final para a disciplina de Fundamentos de Data Science, da Escola de Matemática Aplicada - EMAP/FGV
 
-### Membros
+### Equipe
 
 Felipe Costa
+
 Maria Gabriela Gontijo
 
 ### Objetivo
