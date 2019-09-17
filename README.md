@@ -27,13 +27,13 @@ Os dados foram coletados no site da Câmara dos Deputados e são compostos por d
 
 ### Requisitos
 Para instalar as bibliotecas abaixo, foi utilizado o software Anaconda.
-* tika: conda install -c conda-forge tika (extração de dados de documentos em pdf)
-* spacy: conda install -c conda-forge spacy (biblioteca de NLP)
-         conda install -c conda-forge spacy-model-pt_core_news_sm (utilizado para 'lematization')
-* pyLDAvis: conda install -c conda-forge pydavis (visualização dos tópicos gerados por LDA)
-* Wordcloud: conda install -c conda-forge wordcloud
-* Altair: conda install -c conda-forge altair (visualizações interativas)
-* gensim: conda install -c anaconda gensim
+* **tika**: conda install -c conda-forge tika (extração de dados de documentos em pdf)
+* **spacy**: - conda install -c conda-forge spacy (biblioteca de NLP)
+             - conda install -c conda-forge spacy-model-pt_core_news_sm (utilizado para 'lematization')
+* **pyLDAvis**: conda install -c conda-forge pydavis (visualização dos tópicos gerados por LDA)
+* **Wordcloud**: conda install -c conda-forge wordcloud
+* **Altair**: conda install -c conda-forge altair (visualizações interativas)
+* **gensim**: conda install -c anaconda gensim
 
 Caso não possua o Anaconda, segue o link:https://www.anaconda.com/distribution/
 
