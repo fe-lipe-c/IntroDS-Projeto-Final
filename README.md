@@ -24,6 +24,8 @@ Os dados foram coletados no site da Câmara dos Deputados e são compostos por d
 
   - **5X-LEG-**: arquivos que contém os resultados das votações realizadas em plenário.
   - **Sessões-parte18-19.zip**: sessões em plenário de 2018 e de 2019.
+  
+  Antes de inicializar os trabalhos, é preciso descompactar os zips em cada pasta em Data3
 
 ### Requisitos
 Para instalar as bibliotecas abaixo, foi utilizado o software Anaconda.
