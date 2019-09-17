@@ -1,36 +1,28 @@
 # Projeto Final
 Projeto final para a disciplina de Fundamentos de Data Science, da Escola de Matemática Aplicada - EMAP/FGV
 
-## Lista de Pastas e Arquivos
-### Pastas
+### Membros
 
-* **Papers**: alguns artigos que foram ou não utilizados como referência para realizar o projeto.
-* **Versões**: _jupyter notebooks_ com códigos-pilotos para extrair os dados do site da Câmara dos Deputados.
+Felipe Costa
+Maria Gabriela Gontijo
 
-  - **Untitled.ipynb**: (abandonado) código para extrair o texto dos arquivos pdf.
-  - **ftlog.log** e **ftlog_dias_sessao.log**: log das mensagens de erro para as tentativas de extrair os dados do site da Câmara dos 
-    Deputados.
-  - **scrape**(r)**_teste**(_2_,_3_)**.ipynb** e **cam_scrape.py**: algumas gerações de código para extrair os discursos do site da Cãmara 
-    dos Deputados. O mesmo discurso está distribuido de várias formas no site. Cada um desses códigos é uma tentativa de extrair os dados 
-    utilizando algum desses caminhos.
-    
-* **Versões_database**: algumas gerações abandonadas de códigos para implementar a base de dados.
+### Objetivo
 
-  - **getpdf.ipynb**: código-teste verificar como extrair os discursos do pdf e uma tentativa frustrada de visualizar a quantidade de 
-    palavras por discurso, na ordem cronológica.
+Através dos discursos e do padrão de votos dos membros da Câmara dos Deputados, inferir os tópicos mais relevantes e como cada deputado e cada partido votam.
+De forma mais precisa, este trabalho se propõe a responder as seguintes questões: i) os deputados votam de acordo com o partido ou de acordo com o estado que representa? ii) quais deputados são mais presentes nas sessões? iii) quais temas são mais abordados nas sessões? iv) qual tema é mais abordado por cada partido?
+
+### Utilizando os códigos
+
+Existem dois arquivos na pasta principal deste repositório: Analise_camara_dos_deputados.ipynb e analise_discursos.ipynb. O primeiro tem duas partes, a primeira dedicada à modelagem dos tópicos e a segunda a inferência sobre o padrão de votos dos deputados. O segundo jupyter notebook se concentra em uma análise mais minuciosa dos dados, escolhendo players de destaque para o escrutínio. O restante dos arquivos presentes nas outras pastas servem como suporte para o bom funcionamento desses códigos.
+
+### Sobre os dados
+
+Os dados foram coletados no site da Câmara dos Deputados e são compostos por discursos e contabilização de votos. Para isso foi utilizado o arquivo scrape_teste4.ipynb
   
 * **Dados**: dados que serão utilizados no trabalho.
 
   - **5X-LEG-**: arquivos que contém os resultados das votações realizadas em plenário.
-  - **Layout.pdf**: esquema dos arquivos 5X-LEG-.
-
-### Arquivos
-
-* **Dias_com_sessao.txt**: lista dos dias em que houve pelo menos uma sessão no plenário. O código em _dias_sessao.ipynb_ gera esse arquivo,
-  utilizando a biblioteca Pickle.
-* **Sessões-parte18-19.zip**: amostra de algumas sessões de 2018 e 2019.
-* **dias_sessao.ipynb**: código para baixar os dias em que houve pelo menos uma sessão no plenário. 
-* **scrape_teste4.ipynb**: código para extrair os discursos dos deputados do site da Câmara dos Deputados.
+  - **Sessões-parte18-19.zip**: sessões em plenário de 2018 e de 2019.
 
 ### Requisitos
 Para instalar as bibliotecas abaixo, foi utilizado o software Anaconda.
